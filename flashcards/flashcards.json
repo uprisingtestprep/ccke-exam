@@ -1,0 +1,2502 @@
+[
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Name four late complications of the Fontan circulation in adults.",
+  "back": "Protein-losing enteropathy, plastic bronchitis, Fontan-associated liver disease (fibrosis and hepatocellular carcinoma risk), atrial arrhythmias, thromboembolism, and cyanosis from fenestration or collaterals."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What is tachy-brady syndrome, and why does treatment often require a pacemaker?",
+  "back": "Alternating atrial tachyarrhythmias (usually AF) and sinus pauses; rate-controlling drugs worsen the bradycardia, so pacing is placed to permit needed rate or rhythm control therapy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What two conditions must a patient meet for a plain exercise ECG stress test?",
+  "back": "Ability to exercise to adequate workload and an interpretable baseline ECG without ST-segment abnormalities that obscure ischemia."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What therapy is reserved for PAH patients with a positive acute vasoreactivity test?",
+  "back": "High-dose calcium channel blockers such as nifedipine, amlodipine, or diltiazem, continued only if a sustained near-normal hemodynamic response is confirmed on follow-up."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What lower INR strategy is permitted for the On-X mechanical aortic valve?",
+  "back": "After 3 months of standard anticoagulation, an INR of 1.5 to 2.0 plus aspirin 75 to 100 mg daily is reasonable."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Which cardiac conditions place pregnancy in modified WHO class IV, where pregnancy is contraindicated?",
+  "back": "Pulmonary arterial hypertension including Eisenmenger syndrome, severe systemic ventricular dysfunction (EF <30%, NYHA III to IV), severe mitral stenosis, severe symptomatic aortic stenosis, severe coarctation, and markedly dilated aortopathy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What does the GRACE score estimate, and what advantage does it hold over TIMI?",
+  "back": "In-hospital and post-discharge mortality in ACS. It uses continuous variables including hemodynamics, Killip class, creatinine, and cardiac arrest, giving better discrimination than TIMI."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What number of drugs and other criteria define resistant hypertension?",
+  "back": "Blood pressure above goal on three optimally dosed agents of different classes including a diuretic, or controlled only on four or more agents, with adherence and white coat effect excluded."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Name three causes of pacemaker failure to capture despite visible pacing spikes.",
+  "back": "Lead dislodgement or fracture, exit block from fibrosis at the electrode-tissue interface, output programmed below threshold, and severe metabolic derangement such as hyperkalemia."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "State the normal right heart catheterization pressures and cardiac index.",
+  "back": "Right atrium 2 to 6 mmHg, mean pulmonary artery below 20 mmHg, wedge pressure 6 to 12 mmHg, and cardiac index 2.5 to 4.0 L/min/m2."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target daily dose of bisoprolol in HFrEF?",
+  "back": "10 mg once daily, uptitrated from 1.25 mg daily as tolerated."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What mean pulmonary artery pressure now defines pulmonary hypertension on right heart catheterization?",
+  "back": "Mean pulmonary artery pressure >20 mmHg at rest, lowered from the historical 25 mmHg threshold in the 2022 ESC/ERS guideline."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "How is constrictive pericarditis distinguished from restrictive cardiomyopathy?",
+  "back": "Constriction preserves or raises medial e' (9 cm/s or higher, with annulus reversus) and near-normal BNP; restriction shows low e' below about 7 cm/s and markedly elevated BNP."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is transthyretin cardiac amyloidosis diagnosed without a biopsy?",
+  "back": "Grade 2 to 3 myocardial uptake on technetium pyrophosphate scintigraphy plus a negative monoclonal protein screen (serum free light chains and serum and urine immunofixation)."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is the colchicine regimen and duration for a first episode of acute pericarditis?",
+  "back": "Colchicine 0.5 mg twice daily, reduced to 0.5 mg once daily below 70 kg, continued for 3 months; it roughly halves recurrence."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "List the classic metabolic side effects of thiazide diuretics.",
+  "back": "Hyponatremia, hypokalemia, hyperuricemia with gout flares, hyperglycemia, and hypercalcemia."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How does an Impella work, and what are key contraindications?",
+  "back": "A catheter-based axial flow pump pulling blood from the LV into the aorta. Contraindicated with LV thrombus, mechanical aortic valve, significant aortic regurgitation, and severe peripheral arterial disease."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "On ECG, what finding suggests typical AVNRT rather than orthodromic AVRT during narrow-complex tachycardia?",
+  "back": "A pseudo r' in V1 or pseudo S wave in the inferior leads: the retrograde P is buried in or just after the QRS (very short RP)."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the default DAPT duration after elective DES placement for chronic coronary disease?",
+  "back": "6 months of aspirin plus clopidogrel, then single antiplatelet therapy."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "How do precordial concordance and extreme QRS width help separate VT from SVT with aberrancy?",
+  "back": "All-positive or all-negative QRS across V1 to V6 strongly favors VT, as do QRS >160 ms, a northwest axis, and absence of a typical bundle branch pattern."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What potassium and renal thresholds must be met before starting a mineralocorticoid receptor antagonist?",
+  "back": "Potassium below 5.0 mEq/L and eGFR at least 30 mL/min/1.73 m² at initiation, per the current heart failure guideline."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Describe the de Winter ECG pattern and the occlusion it represents.",
+  "back": "Upsloping ST depression at the J point with tall, symmetric T waves in the precordial leads. It signifies acute proximal LAD occlusion and is treated as a STEMI equivalent."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Clopidogrel for PCI: loading dose, maintenance dose, and its key pharmacogenomic limitation?",
+  "back": "600 mg load, then 75 mg daily. It is a prodrug activated by CYP2C19, so loss-of-function alleles reduce its antiplatelet effect."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "For degenerative mitral regurgitation, is repair or replacement preferred?",
+  "back": "Repair, when a durable result is likely; asymptomatic patients should be referred to experienced valve centers where successful repair likelihood exceeds 95%."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What ejection fraction cutoff defines heart failure with preserved ejection fraction (HFpEF)?",
+  "back": "LVEF ≥50% defines HFpEF, together with symptoms and evidence of elevated filling pressures such as raised natriuretic peptides or diastolic dysfunction."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "State the Duke treadmill score formula and the score defining high risk.",
+  "back": "Exercise minutes minus 5 × maximal ST deviation in mm minus 4 × angina index. A score ≤ −11 is high risk; ≥ +5 is low risk."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which oral antiarrhythmic legally requires 3 days of inpatient initiation with ECG monitoring, and why?",
+  "back": "Dofetilide, because of dose-related torsades risk; dosing is set by creatinine clearance and the QTc response after each of the first doses. It is contraindicated if QTc >440 ms at baseline."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Preexcited atrial fibrillation: which drug classes are contraindicated, and what should be given instead?",
+  "back": "Avoid AV nodal blockers (adenosine, verapamil, diltiazem, beta blockers, digoxin, IV amiodarone); they can accelerate conduction to VF. Use IV procainamide or ibutilide, or cardiovert if unstable."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the Austin Flint murmur and how is it distinguished from mitral stenosis?",
+  "back": "A low-pitched apical mid-diastolic rumble in severe aortic regurgitation, from the jet striking the anterior mitral leaflet; unlike mitral stenosis there is no opening snap or loud S1."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Define the four Killip classes in acute MI.",
+  "back": "Class I, no heart failure; II, rales or S3; III, frank pulmonary edema; IV, cardiogenic shock. Mortality rises steeply with each class."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Ventricular septal rupture after MI: timing, exam finding, and the confirmatory hemodynamic clue?",
+  "back": "3 to 5 days post-MI, a new harsh holosystolic murmur often with a palpable thrill. Right heart catheterization shows an oxygen saturation step-up at the right ventricle."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which two characteristic side effects of ticagrelor are not caused by the other oral P2Y12 inhibitors?",
+  "back": "Dyspnea without pulmonary pathology and ventricular pauses, both adenosine mediated. Dyspnea causes discontinuation in some patients."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What anterior-lead ECG clues suggest posterior MI, and how is it confirmed?",
+  "back": "ST depression in V1 to V3 with tall R waves and upright T waves. Confirm with posterior leads V7 to V9 showing ST elevation ≥0.5 mm."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What INR target applies to a mechanical mitral valve, or a mechanical aortic valve with risk factors?",
+  "back": "An INR of 3.0, range 2.5 to 3.5, for mitral prostheses, older-generation valves, or aortic prostheses with thromboembolic risk factors such as atrial fibrillation or prior embolism."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "ST elevation in leads I, aVL, V5, and V6 points to which territory and vessels?",
+  "back": "Lateral wall, supplied by the left circumflex or a diagonal branch of the LAD."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Define contractility and name two things that increase it.",
+  "back": "The intrinsic force of myocardial contraction independent of preload and afterload. Catecholamines and digoxin increase it; beta blockers and hypoxia reduce it."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is droxidopa and when is it used?",
+  "back": "An oral norepinephrine prodrug approved for symptomatic neurogenic orthostatic hypotension, as in Parkinson disease or pure autonomic failure. It shares the supine hypertension caution."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What gradient threshold supports intervening on native or recurrent aortic coarctation?",
+  "back": "A peak-to-peak coarctation gradient ≥20 mmHg with hypertension, or a lesser gradient with significant collaterals or anatomic narrowing plus hypertension. Stenting is favored in suitable adult anatomy."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "Describe the stage 1 ECG of acute pericarditis.",
+  "back": "Diffuse concave ST elevation with PR-segment depression across most leads, plus reciprocal ST depression and PR elevation in aVR."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What findings justify closing a ventricular septal defect in an adult?",
+  "back": "A hemodynamically significant shunt (Qp:Qs ≥1.5:1) with left ventricular volume overload, or a history of endocarditis, provided pulmonary vascular disease is not severe."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the most common cause of infective endocarditis overall, and its classic settings?",
+  "back": "Staphylococcus aureus, causing acute, rapidly destructive disease; it dominates injection drug use endocarditis, which favors the tricuspid valve."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Which cardiovascular conditions make an SGLT2 inhibitor guideline-directed therapy?",
+  "back": "Heart failure across the ejection fraction spectrum, type 2 diabetes with established atherosclerotic disease or high risk, and CKD, reducing heart failure hospitalization and cardiovascular death."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What ankle-brachial index value diagnoses peripheral artery disease?",
+  "back": "≤0.90 at rest. Values 0.91 to 0.99 are borderline; exercise ABI can unmask disease when resting values are borderline with classic symptoms."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which NSTE-ACS features mandate an immediate invasive strategy, within 2 hours?",
+  "back": "Refractory angina, hemodynamic instability or cardiogenic shock, electrical instability with sustained VT or VF, and acute heart failure attributable to ischemia."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What are the classic physical findings of severe tricuspid regurgitation?",
+  "back": "Prominent c-v waves in the jugular venous pulse, a pulsatile liver, and a holosystolic lower left sternal border murmur that augments with inspiration."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What is Libman-Sacks endocarditis, and which valve does it most often involve?",
+  "back": "Sterile verrucous vegetations on valve surfaces, most often mitral, seen in SLE and antiphospholipid syndrome. It can cause regurgitation and embolic stroke despite negative blood cultures."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "List the six Ps of acute limb ischemia.",
+  "back": "Pain, pallor, pulselessness, paresthesia, paralysis, and poikilothermia (coolness)."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "How is a lower-extremity superficial vein thrombosis of ≥5 cm treated?",
+  "back": "Fondaparinux 2.5 mg daily for 45 days. Clots within 3 cm of the saphenofemoral junction are managed like deep vein thrombosis with full anticoagulation."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "New atrial fibrillation after cardiac surgery: when does it peak, and what is the anticoagulation implication?",
+  "back": "Peaks on postoperative days 2 to 4 and is often self-limited, but it carries later stroke and AF recurrence risk, so anticoagulation is reasonable when CHA2DS2-VASc is elevated."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which idiopathic VT presents with RBBB morphology plus left axis and responds to verapamil?",
+  "back": "Left posterior fascicular (Belhassen) VT, a reentrant rhythm using the Purkinje network in a structurally normal heart. IV verapamil terminates it."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the strongest indication for early surgery in infective endocarditis?",
+  "back": "Valve dysfunction causing heart failure; early surgery during the initial hospitalization is class 1."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How does the Canadian Cardiovascular Society define class III angina?",
+  "back": "Marked limitation of ordinary activity: angina on walking one to two level blocks or climbing one flight of stairs at a normal pace."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What ejection fraction range defines heart failure with mildly reduced ejection fraction (HFmrEF)?",
+  "back": "LVEF 41 to 49% defines HFmrEF, with evidence of elevated filling pressures supporting the diagnosis."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Enoxaparin dosing in NSTE-ACS, and the adjustment for creatinine clearance below 30 mL/min?",
+  "back": "1 mg/kg subcutaneously every 12 hours. Reduce to 1 mg/kg once daily when creatinine clearance is below 30 mL/min."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What defines takotsubo (stress) cardiomyopathy, and what is its usual course?",
+  "back": "Transient regional wall motion abnormality, classically apical ballooning, extending beyond a single coronary territory, often after emotional or physical stress, without culprit coronary occlusion. LVEF typically recovers within days to weeks."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why are verapamil and diltiazem contraindicated in HFrEF?",
+  "back": "Non-dihydropyridine calcium channel blockers are negative inotropes that worsen outcomes in reduced ejection fraction; amlodipine is the safer option when a CCB is needed."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What pretreatment reduces torsades risk when using ibutilide to convert atrial flutter or fibrillation?",
+  "back": "IV magnesium before infusion, plus normal potassium and 4 hours of continuous ECG monitoring afterward; torsades occurs in several percent of recipients."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which cardiac conditions qualify for antibiotic endocarditis prophylaxis?",
+  "back": "Prosthetic valves or prosthetic valve material including TAVR, prior endocarditis, unrepaired cyanotic congenital disease, repairs with prosthetic material within 6 months or with residual defects, and transplant valvulopathy."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What clinical features raise suspicion for giant cell arteritis?",
+  "back": "Age ≥50 with new headache, jaw claudication, scalp tenderness, visual symptoms, polymyalgia rheumatica, and elevated ESR or CRP."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is the classic presentation of acute embolic mesenteric ischemia?",
+  "back": "Sudden severe abdominal pain out of proportion to examination, often with atrial fibrillation, from an embolus lodging in the superior mesenteric artery. Lactate elevation is a late sign."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "How does trastuzumab cardiotoxicity differ from anthracycline toxicity, and how is it monitored?",
+  "back": "It is not dose-dependent and is usually reversible after interruption. Monitor LVEF at baseline and every 3 months during therapy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Free wall rupture after MI: timing window and classic presentation?",
+  "back": "Most occur within the first 5 to 14 days. It presents as sudden tamponade with pulseless electrical activity and is usually fatal without emergency surgery."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which antihypertensive class is preferred in CKD with albuminuria?",
+  "back": "An ACE inhibitor or ARB, which slows progression of proteinuric kidney disease. Never combine the two classes."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What defines complete heart block on the ECG strip?",
+  "back": "AV dissociation with an atrial rate faster than a regular ventricular escape rhythm; no P wave conducts. Escape is junctional (narrow, 40 to 60) or ventricular (wide, 20 to 40)."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What defines very severe aortic stenosis, and why does it matter in asymptomatic patients?",
+  "back": "Peak velocity ≥5 m/s or mean gradient ≥60 mmHg; in asymptomatic patients at low surgical risk, intervention is reasonable at this severity."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Why does acute severe aortic regurgitation look different from chronic, and how is it managed?",
+  "back": "The unadapted ventricle produces a soft S1, short murmur, and pulmonary edema without wide pulse pressure; treatment is emergency surgery, and an intra-aortic balloon pump is contraindicated."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What triggers surgery in asymptomatic chronic severe aortic regurgitation?",
+  "back": "LVEF ≤55% is a class 1 trigger; surgery is also reasonable when LVESD exceeds 50 mm (indexed above 25 mm/m²) or during other cardiac surgery."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Papillary muscle rupture after MI: typical timing, which muscle, and why?",
+  "back": "3 to 5 days post-MI, usually the posteromedial papillary muscle because it has a single blood supply from the posterior descending artery. It causes acute severe MR with pulmonary edema."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "How does a type A aortic dissection differ from type B in management?",
+  "back": "Type A involves the ascending aorta and requires emergency surgery. Type B spares the ascending aorta and is managed medically unless complicated, when TEVAR is preferred."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What LDL-C reduction defines moderate-intensity statin therapy, with two example regimens?",
+  "back": "30 to 49% reduction, such as atorvastatin 10 to 20 mg or rosuvastatin 5 to 10 mg daily. Simvastatin 20 to 40 mg also qualifies."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is the cold and wet acute heart failure profile managed?",
+  "back": "Congested and hypoperfused: cautious diuresis plus inotropic support, with vasopressors for hypotension and early consideration of invasive hemodynamics and mechanical circulatory support."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "In what order do echocardiographic signs of tamponade appear as pressure rises?",
+  "back": "A dilated inferior vena cava without inspiratory collapse appears first (sensitive but not specific), then right atrial collapse lasting more than a third of the cardiac cycle, then early diastolic right ventricular free wall collapse (most specific)."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What are the age-stratified NT-proBNP cutoffs for ruling in acute heart failure?",
+  "back": ">450 pg/mL under age 50, >900 pg/mL for ages 50 to 75, and >1800 pg/mL over age 75."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Describe the diagnostic type 1 Brugada ECG pattern and where the leads may need to move.",
+  "back": "Coved ST elevation ≥2 mm with T inversion in V1 or V2; sensitivity improves with leads placed in the 2nd or 3rd intercostal space."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the default DAPT duration after ACS, regardless of stenting?",
+  "back": "12 months of aspirin plus a P2Y12 inhibitor, with ticagrelor or prasugrel generally preferred over clopidogrel after PCI."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "ST elevation in leads V1 through V4 localizes to which territory and artery?",
+  "back": "Anterior wall and septum, supplied by the left anterior descending artery."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How is SCAD usually managed, and why is fibrinolysis dangerous?",
+  "back": "Conservatively when flow is preserved and the patient is stable, since most dissections heal spontaneously and PCI carries high complication rates. Fibrinolysis can extend the intramural hematoma."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Who is a candidate for percutaneous balloon mitral commissurotomy?",
+  "back": "Symptomatic patients with severe rheumatic mitral stenosis and favorable valve morphology, classically a pliable, noncalcified valve with a Wilkins score of 8 or less."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How many days before elective CABG should clopidogrel be held?",
+  "back": "At least 5 days, to allow platelet function recovery from irreversible P2Y12 inhibition."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which proton pump inhibitors most reduce clopidogrel activation, and what is the safer alternative?",
+  "back": "Omeprazole and esomeprazole, through CYP2C19 inhibition. Pantoprazole has minimal interaction and is preferred when a PPI is needed."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Why must flecainide and propafenone be avoided in coronary artery disease or structural heart disease?",
+  "back": "The CAST trial showed class IC agents increase mortality after myocardial infarction by proarrhythmia. They are reserved for structurally normal hearts."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In a patient with prior myocardial infarction, what is the default diagnosis for wide-complex tachycardia?",
+  "back": "Ventricular tachycardia until proven otherwise; structural heart disease makes VT far more likely than SVT with aberrancy. When unsure, treat as VT."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target dose of carvedilol in HFrEF for most adults?",
+  "back": "25 mg twice daily; 50 mg twice daily may be used in patients weighing more than 85 kg."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "On dobutamine stress echo for low-flow, low-gradient aortic stenosis, what distinguishes true severe from pseudosevere disease?",
+  "back": "True severe: velocity rises to ≥4 m/s while valve area stays ≤1.0 cm². Pseudosevere: valve area opens above 1.0 cm² as flow increases."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "When should potassium and renal function be rechecked after starting or uptitrating an MRA?",
+  "back": "Within 1 to 2 weeks of initiation or dose change, then periodically thereafter. Stop the MRA if potassium exceeds 5.5 mEq/L or renal function deteriorates significantly."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is the significance of tuberculous pericarditis worldwide, and its treatment?",
+  "back": "It is the leading cause of constrictive pericarditis in endemic regions; treatment is standard four-drug antituberculous therapy, with pericardiectomy for constriction despite treatment."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "List the major sudden cardiac death risk markers that support ICD consideration in HCM.",
+  "back": "Family history of HCM sudden death, massive hypertrophy ≥30 mm, unexplained syncope, nonsustained VT, apical aneurysm, extensive late gadolinium enhancement, and LVEF <50%."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What distinguishes a Type 1 from a Type 2 myocardial infarction?",
+  "back": "Type 1 is atherothrombotic, caused by plaque rupture or erosion with thrombus. Type 2 is oxygen supply-demand mismatch without acute atherothrombosis, such as severe anemia, tachyarrhythmia, or hypotension."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "In NSTE-ACS, a GRACE score above what value supports an early invasive strategy within 24 hours?",
+  "back": "GRACE score above 140. High-risk patients benefit from angiography within 24 hours of presentation."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When does suspected endocarditis call for transesophageal rather than only transthoracic echocardiography?",
+  "back": "When TTE is nondiagnostic, with a prosthetic valve or intracardiac device, with Staphylococcus aureus bacteremia, or when intracardiac complications such as abscess are suspected."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is suspected bioprosthetic valve thrombosis treated in a hemodynamically stable patient?",
+  "back": "With a trial of vitamin K antagonist anticoagulation; gradients and leaflet thickening often improve without surgery."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What does adenosine do to atrial flutter, and why is that diagnostically useful?",
+  "back": "It transiently blocks the AV node, slowing the ventricular response and unmasking flutter waves; it does not terminate the flutter circuit itself."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "When should giant cell myocarditis be suspected, and how is it managed?",
+  "back": "Fulminant heart failure with ventricular arrhythmias or heart block in a young or middle-aged adult. Confirm with endomyocardial biopsy; treat with combination immunosuppression and early transplant or MCS evaluation."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "At what aortic diameter is repair advised in Marfan syndrome?",
+  "back": "≥5.0 cm at the root or ascending aorta, and lower (around 4.5 cm) with family history of dissection, rapid growth, or planned pregnancy."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In the 2023 ACC/AHA/ACCP/HRS atrial fibrillation guideline, what does Stage 3 represent in the AF staging scheme?",
+  "back": "Clinically manifest AF (paroxysmal, persistent, long-standing persistent, or successfully ablated). Stage 1 is at risk, Stage 2 is pre-AF, Stage 4 is permanent AF."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What hemodynamic criteria define cardiogenic shock on right heart catheterization?",
+  "back": "Cardiac index <2.2 L/min/m² with pulmonary capillary wedge pressure ≥15 mmHg, plus systemic hypotension or hypoperfusion."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What defines classical low-flow, low-gradient severe aortic stenosis?",
+  "back": "Valve area ≤1.0 cm² with peak velocity below 4 m/s and mean gradient below 40 mmHg in a patient with LVEF below 50%."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which beta blockers are preferred in congenital long QT syndrome, and which everyday exposures must patients avoid?",
+  "back": "Nadolol or propranolol (nonselective agents have the best data). Avoid all QT-prolonging drugs (crediblemeds list) and correct hypokalemia and hypomagnesemia."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the standard strategy for loop diuretic resistance in congested heart failure?",
+  "back": "Add a thiazide-type diuretic such as metolazone or chlorothiazide for sequential nephron blockade, blocking distal sodium reabsorption upregulated by chronic loop use. Monitor potassium closely."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "STEMI at a PCI-capable hospital: what is the goal first medical contact to device time?",
+  "back": "90 minutes or less from first medical contact to device."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "In repaired tetralogy with severe pulmonary regurgitation, what triggers pulmonary valve replacement in an asymptomatic patient?",
+  "back": "Progressive RV dilation (commonly RVEDVi at least 160 mL/m2 or RVESVi at least 80 mL/m2), RV systolic dysfunction, or important tricuspid regurgitation."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Who qualifies for a secondary prevention ICD without any waiting period or EF threshold?",
+  "back": "Survivors of VF or hemodynamically unstable sustained VT, and those with sustained VT plus structural heart disease, once fully reversible causes are excluded."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is cardiac power output calculated, and what value predicts mortality in cardiogenic shock?",
+  "back": "CPO = mean arterial pressure × cardiac output / 451. Values <0.6 watts strongly predict in-hospital mortality."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which oral antihypertensive agents are preferred for chronic hypertension in pregnancy?",
+  "back": "Labetalol, extended-release nifedipine, and methyldopa. For severe hypertension in pregnancy, IV labetalol, IV hydralazine, or oral nifedipine are used."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How long does rheumatic fever prophylaxis continue by carditis status?",
+  "back": "Carditis with residual valve disease: 10 years or until age 40, whichever is longer. Carditis without residual disease: 10 years or until 21. No carditis: 5 years or until 21."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Why must beta blockade precede vasodilators in aortic dissection anti-impulse therapy?",
+  "back": "A vasodilator alone triggers reflex tachycardia and raises aortic wall shear stress (dP/dt), extending the dissection. Control rate first, then add the vasodilator."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How is Type 4a, PCI-related myocardial infarction, defined by troponin?",
+  "back": "Troponin rise to more than 5× the 99th percentile within 48 hours of PCI in patients with normal baseline, plus evidence of new ischemia."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What arrhythmia trigger and gene characterize long QT type 1, and which activity is classically dangerous?",
+  "back": "Exercise, especially swimming and diving, triggers events; the gene is KCNQ1 (slow potassium channel loss of function). Beta blockers are most protective in LQT1."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Define the anatomic hallmark of Ebstein anomaly and its two classic associations.",
+  "back": "Apical displacement of the septal tricuspid leaflet with atrialization of the right ventricle and tricuspid regurgitation; associated with accessory pathways (WPW) and an interatrial shunt (ASD or PFO)."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "When is dobutamine the stress agent of choice, and when should it be avoided?",
+  "back": "When the patient cannot exercise and vasodilators are contraindicated, such as severe bronchospasm. Avoid it with serious ventricular arrhythmias, recent ACS, or severe LVOT obstruction."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What blood pressure range defines the elevated category?",
+  "back": "Systolic 120 to 129 mmHg with diastolic below 80 mmHg."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What are the blood pressure and heart rate targets in acute aortic dissection, and the drug sequence?",
+  "back": "Heart rate below 60 and systolic 100 to 120 mmHg within about 20 minutes. Give an IV beta blocker such as esmolol first, then add a vasodilator if needed."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Icosapent ethyl: dose, the triglyceride range it is indicated for, and its key risks?",
+  "back": "2 g twice daily for triglycerides 135 to 499 mg/dL on a statin with ASCVD or diabetes plus risk factors, per REDUCE-IT. Risks include atrial fibrillation and bleeding."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Prasugrel dosing and the patients in whom it is contraindicated or requires caution?",
+  "back": "60 mg load, then 10 mg daily. Contraindicated with prior stroke or TIA; avoid or use 5 mg if age ≥75 years or weight under 60 kg."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which antihypertensives are indicated after myocardial infarction or in HFrEF?",
+  "back": "A beta blocker plus an ACE inhibitor or ARB, for survival benefit beyond blood pressure lowering."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Why is a waiting period on GDMT required before a primary prevention ICD in new nonischemic cardiomyopathy?",
+  "back": "At least 3 months of guideline-directed therapy is required because EF often improves above 35%, removing the indication. DANISH tempered mortality expectations in nonischemic disease."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "When should oral beta blockers start after MI, and what findings should delay them?",
+  "back": "Within the first 24 hours unless there are signs of heart failure, low-output state, risk of cardiogenic shock, high-grade AV block, or active bronchospasm."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is the role of corticosteroids in acute pericarditis?",
+  "back": "Not first line because they raise recurrence risk; use low dose, 0.2 to 0.5 mg/kg prednisone with a slow taper, for NSAID contraindication or failure, autoimmune or uremic disease, or pregnancy."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How can potassium binders help maintain guideline-directed therapy in HFrEF with recurrent hyperkalemia?",
+  "back": "Patiromer or sodium zirconium cyclosilicate can lower potassium enough to allow continued RAAS inhibitor and MRA therapy rather than permanent discontinuation."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Describe the classic aortic stenosis murmur and the Gallavardin phenomenon.",
+  "back": "Harsh crescendo-decrescendo systolic murmur at the right upper sternal border radiating to the carotids; the Gallavardin phenomenon is a musical apical radiation mimicking mitral regurgitation."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "For patients over 65 needing aortic valve replacement, which prosthesis type does the guideline favor?",
+  "back": "A bioprosthesis is reasonable past age 70, since structural deterioration is slower at older ages and lifelong anticoagulation is avoided. Age 50-70 is shared decision-making, and under 50 favors mechanical."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Sgarbossa criteria for MI in LBBB: list the three findings and their points.",
+  "back": "Concordant ST elevation ≥1 mm scores 5, concordant ST depression ≥1 mm in V1 to V3 scores 3, discordant ST elevation ≥5 mm scores 2. A total ≥3 is diagnostic."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "A PRECISE-DAPT score at what threshold identifies high bleeding risk and favors shorter DAPT?",
+  "back": "≥25. These patients gain no ischemic benefit from prolonged DAPT but bleed substantially more."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In which airway disease is adenosine best avoided, and what other setting blunts or exaggerates its effect?",
+  "back": "Avoid in severe reactive airway disease (bronchospasm risk). Dipyridamole potentiates adenosine; methylxanthines like theophylline and caffeine antagonize it. Heart transplant recipients are hypersensitive."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When is surgery indicated for symptomatic severe aortic regurgitation?",
+  "back": "Symptoms alone are a class 1 indication for aortic valve surgery regardless of left ventricular systolic function."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Name the high-intensity statin regimens and the expected LDL-C reduction.",
+  "back": "Atorvastatin 40 to 80 mg or rosuvastatin 20 to 40 mg daily, lowering LDL-C by ≥50%."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Which valve abnormality accompanies aortic coarctation in over half of patients, and what vascular lesion also associates?",
+  "back": "Bicuspid aortic valve, in roughly 60%. Intracranial (berry) aneurysms also occur at increased frequency, and ascending aortopathy warrants surveillance."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What venous anomaly travels with a sinus venosus ASD, and why can it not be device closed?",
+  "back": "Partial anomalous pulmonary venous return, usually the right upper pulmonary vein with a superior sinus venosus defect. The defect lacks rims and involves the veins, so repair is surgical."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "How is purulent bacterial pericarditis managed, and why is drainage mandatory?",
+  "back": "Urgent pericardial drainage plus intravenous antibiotics; drainage is mandatory because antibiotics alone fail and mortality untreated approaches 100%."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is the treatment rule when giant cell arteritis is suspected?",
+  "back": "Start high-dose glucocorticoids immediately; do not wait for biopsy. Temporal artery biopsy remains diagnostic for up to about 2 weeks after starting steroids."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Ezetimibe: mechanism and typical additional LDL-C lowering on top of a statin?",
+  "back": "Blocks the NPC1L1 transporter, inhibiting intestinal cholesterol absorption, and lowers LDL-C by roughly 18 to 25%."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What is the most feared toxicity of long-term amiodarone, and how does it present?",
+  "back": "Pulmonary toxicity: subacute cough, dyspnea, and infiltrates with reduced DLCO. Stop the drug; corticosteroids are used in significant cases. It can be fatal if missed."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is transient constrictive pericarditis, and how does it change management?",
+  "back": "Constriction with active inflammation that can resolve; a 2 to 3 month trial of anti-inflammatory therapy is warranted in stable patients before committing to pericardiectomy."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What hemodynamic problem does VA-ECMO create for the left ventricle, and how is it addressed?",
+  "back": "Retrograde aortic flow raises LV afterload, causing LV distension and pulmonary edema. Manage with LV venting or unloading, such as an Impella (ECPELLA) or atrial septostomy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Define MINOCA and name the single most useful test to establish its mechanism.",
+  "back": "Myocardial infarction meeting the universal definition with no coronary stenosis ≥50% and no alternative diagnosis. Cardiac MRI is the key test, separating true infarction from myocarditis."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How many days before elective CABG should ticagrelor be held?",
+  "back": "At least 3 days. Although reversible, its twice-daily dosing and active metabolite still impair platelets for several days."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is disopyramide's role in obstructive hypertrophic cardiomyopathy?",
+  "back": "A negative inotrope added to a beta-blocker or calcium channel blocker for persistent obstructive symptoms. Its vagolytic side effects and QT prolongation require monitoring."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which antiarrhythmic drugs are contraindicated or harmful in HFrEF?",
+  "back": "Class IC agents such as flecainide and propafenone increase mortality in structural heart disease, and dronedarone is contraindicated in NYHA class III to IV or recently decompensated heart failure."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Nitroglycerin is contraindicated within what interval after each phosphodiesterase-5 inhibitor?",
+  "back": "24 hours after sildenafil or vardenafil and 48 hours after tadalafil, because combined use can cause refractory hypotension."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What separates primary from secondary mitral regurgitation, and why does the distinction drive therapy?",
+  "back": "Primary MR is intrinsic leaflet or chordal disease treated with valve intervention; secondary MR reflects ventricular or atrial disease with structurally normal leaflets, treated first with guideline-directed medical therapy."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How long must an ACE inhibitor be held before starting sacubitril/valsartan?",
+  "back": "36 hours. The washout separates ACE inhibition from neprilysin inhibition before the first ARNI dose."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Give the surveillance intervals for an abdominal aortic aneurysm below repair threshold.",
+  "back": "Roughly every 3 years for 3.0 to 3.9 cm, every 12 months for 4.0 to 4.9 cm, and every 6 months for 5.0 to 5.4 cm."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What defines contractile (flow) reserve on dobutamine testing, and what does its absence mean?",
+  "back": "A stroke volume increase of ≥20%. Absence predicts higher operative risk, though valve replacement can still improve outcomes in true severe stenosis."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "In the 2020 ACC/AHA framework, which aortic stenosis patients should preferentially receive surgical AVR by age?",
+  "back": "Patients under 65, or with life expectancy over 20 years, are preferentially treated with surgical aortic valve replacement."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What exam findings suggest aortic coarctation in a hypertensive patient?",
+  "back": "Higher arm than leg blood pressure, radiofemoral pulse delay, and a systolic murmur over the back. Rib notching may appear on chest radiograph."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Summarize the five SCAI cardiogenic shock stages A through E.",
+  "back": "A: at risk. B: beginning, hypotension or tachycardia without hypoperfusion. C: classic, hypoperfusion requiring intervention. D: deteriorating despite initial support. E: extremis, circulatory collapse or refractory arrest."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which baseline ECG findings make exercise ST segments uninterpretable and require stress imaging?",
+  "back": "LBBB, ventricular pacing, pre-excitation, LVH with repolarization abnormality, digoxin effect, and resting ST depression ≥1 mm."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Give three management principles in Eisenmenger syndrome, including the modern view of phlebotomy.",
+  "back": "Avoid pregnancy, dehydration, and systemic vasodilators; use air filters on IV lines; consider pulmonary vasodilators (bosentan, per BREATHE-5). Phlebotomize only for symptomatic hyperviscosity, never for hematocrit alone."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What does differential cyanosis (blue toes, pink fingers) indicate in an adult with a PDA?",
+  "back": "Eisenmenger physiology of the ductus: desaturated blood shunts right-to-left into the descending aorta beyond the left subclavian, sparing the upper body. Closure is then contraindicated."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How does trastuzumab cardiotoxicity differ from anthracycline cardiotoxicity, and how is it monitored?",
+  "back": "Largely reversible and not cumulative-dose dependent. Monitor LVEF about every 3 months during therapy, holding trastuzumab for significant declines and rechallenging after recovery."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What features distinguish primary from secondary Raynaud phenomenon?",
+  "back": "Primary is symmetric, starts young, and spares tissue with normal nailfold capillaries. Secondary suggests connective tissue disease: onset after 40, asymmetry, digital ulcers, abnormal nailfold capillaroscopy, positive ANA."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "How does immune checkpoint inhibitor myocarditis present and how is it treated?",
+  "back": "Early, at a median of about 30 days after starting therapy, often with arrhythmia or heart block and high fatality. Stop the drug and give high-dose methylprednisolone."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Sublingual nitroglycerin for angina: dose, repeat schedule, and when to call emergency services?",
+  "back": "0.3 to 0.4 mg, repeated every 5 minutes for up to 3 doses. Call 911 if pain is unimproved 5 minutes after the first dose."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the standard regimen for rheumatic fever secondary prophylaxis?",
+  "back": "Benzathine penicillin G 1.2 million units intramuscularly every 4 weeks, shortened to every 3 weeks in high-risk settings."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What antithrombotic combination reduces events in chronic symptomatic PAD?",
+  "back": "Rivaroxaban 2.5 mg twice daily plus aspirin 81 mg, which lowered cardiovascular and major adverse limb events in COMPASS and after revascularization in VOYAGER PAD."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What left ventricular ejection fraction defines heart failure with reduced ejection fraction (HFrEF)?",
+  "back": "LVEF ≤40% defines HFrEF in the 2022 AHA/ACC/HFSA guideline classification."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which long QT subtype is triggered by sudden auditory stimuli and the postpartum period?",
+  "back": "LQT2, from KCNH2 (hERG) potassium channel loss of function. Alarm clocks and phone rings are the classic triggers."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What is the dominant residual lesion after tetralogy of Fallot repair, and how is it surveilled?",
+  "back": "Chronic severe pulmonary regurgitation from the transannular patch, causing progressive RV dilation. Surveillance uses periodic cardiac MRI to quantify RV volumes and function, plus ECG and Holter."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which common condition lowers natriuretic peptide levels and can mask heart failure?",
+  "back": "Obesity. Natriuretic peptide levels are disproportionately low in obese patients, so heart failure can be present despite modest values."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Describe the classic murmur and peripheral pulse findings of a patent ductus arteriosus.",
+  "back": "A continuous machinery murmur, loudest at the left infraclavicular area, with bounding pulses and a wide pulse pressure from aortic diastolic runoff."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the INR target for a current-generation mechanical aortic valve without risk factors?",
+  "back": "An INR of 2.5, range 2.0 to 3.0, for bileaflet or current-generation single-tilting-disc aortic prostheses."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What features characterize fungal endocarditis and its management?",
+  "back": "Candida or Aspergillus infection with large, embolization-prone vegetations, usually in patients with lines, immunosuppression, or injection drug use; treatment combines surgery with prolonged antifungal therapy."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "When is revascularization justified for atherosclerotic renal artery stenosis?",
+  "back": "CORAL and ASTRAL showed no routine benefit over medical therapy. Reserve stenting for recurrent flash pulmonary edema, refractory hypertension, or progressive renal failure from bilateral stenosis."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Outline the treatment ladder for chronic thromboembolic pulmonary hypertension.",
+  "back": "Lifelong anticoagulation for all. Pulmonary endarterectomy is first-line for operable disease; balloon pulmonary angioplasty and riociguat treat inoperable or persistent post-surgical disease."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "In stable ischemic heart disease, which anatomic finding carries a clear survival benefit from revascularization?",
+  "back": "Left main stenosis ≥50%. For most other stable anatomy, revascularization mainly improves symptoms rather than survival."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why is a washout required between an ACE inhibitor and sacubitril/valsartan?",
+  "back": "Angioedema risk. Both ACE inhibition and neprilysin inhibition impair bradykinin degradation, and overlap compounds bradykinin accumulation."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Which anticoagulant is preferred for thrombotic antiphospholipid syndrome?",
+  "back": "Warfarin with an INR of 2 to 3. The TRAPS trial showed rivaroxaban increased arterial events in triple-positive patients, so DOACs are avoided."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which AV blocks are Class 1 pacemaker indications even without symptoms?",
+  "back": "Mobitz type II second-degree block, high-grade AV block, and complete (third-degree) AV block, because the level of block is infranodal and progression is unpredictable."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is aspirin's current role in primary prevention of ASCVD?",
+  "back": "Low-dose aspirin may be considered in adults 40 to 70 years at higher ASCVD risk without increased bleeding risk. It is not recommended routinely over age 70; secondary prevention use continues indefinitely."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In which two settings is dronedarone contraindicated based on trial evidence of increased mortality?",
+  "back": "Permanent AF (PALLAS) and recent decompensated or advanced (NYHA IV) heart failure (ANDROMEDA). It is a less effective, less toxic amiodarone congener without iodine."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What does the CRUSADE score predict in NSTE-ACS?",
+  "back": "In-hospital major bleeding risk, using variables such as hematocrit, creatinine clearance, heart rate, sex, diabetes, and blood pressure. It informs access site and anticoagulant choices."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is the immediate first step once acute limb ischemia is suspected?",
+  "back": "Systemic anticoagulation with an IV heparin bolus and infusion, plus emergent vascular specialist consultation, before imaging delays revascularization."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "When does sinus node dysfunction justify a permanent pacemaker?",
+  "back": "Only when symptoms clearly correlate with the bradycardia or pauses, or when symptomatic chronotropic incompetence exists. There is no absolute rate or pause number without symptoms."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Which arteries supply the sinoatrial and atrioventricular nodes?",
+  "back": "The SA nodal artery arises from the right coronary in about 60% of people; the AV nodal artery comes from the dominant artery, the right coronary in roughly 85%."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "How is pericardiocentesis performed for tamponade, and when is it the wrong move?",
+  "back": "Echocardiography-guided drainage is standard; hemopericardium from type A aortic dissection or free-wall rupture needs emergency surgery, not routine needle drainage."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Decode the pacing mode DDD: what do the three letters specify?",
+  "back": "Chamber paced (dual), chamber sensed (dual), response to sensing (dual: triggered and inhibited). A fourth letter R adds rate responsiveness."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Why avoid combining verapamil or diltiazem with a beta blocker, or using them in reduced EF?",
+  "back": "Both drug classes slow AV conduction and depress contractility, risking severe bradycardia, heart block, and decompensated heart failure. Non-dihydropyridines are avoided when LVEF is reduced."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which four drug classes are first-line for primary hypertension?",
+  "back": "Thiazide or thiazide-like diuretics, ACE inhibitors, angiotensin receptor blockers, and calcium channel blockers."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Name the clinical red flags that should raise suspicion for cardiac amyloidosis.",
+  "back": "LV hypertrophy with low or discordantly normal ECG voltage, bilateral carpal tunnel syndrome, lumbar spinal stenosis, biceps tendon rupture, and intolerance of ACE inhibitors or beta-blockers."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What hemodynamic triad defines precapillary pulmonary hypertension on right heart catheterization?",
+  "back": "Mean PA pressure >20 mmHg, pulmonary artery wedge pressure ≤15 mmHg, and pulmonary vascular resistance >2 Wood units."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Why can riociguat never be combined with a PDE5 inhibitor?",
+  "back": "Both amplify the nitric oxide/cGMP pathway, and the combination causes severe hypotension. Coadministration is contraindicated, and switching requires a washout period."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "In inferior STEMI, ST elevation greater in lead III than lead II suggests which culprit artery?",
+  "back": "The right coronary artery, often with ST depression in lead I or aVL. Circumflex culprits favor elevation in II over III."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which IV agents suit hypertensive emergency with acute pulmonary edema?",
+  "back": "IV nitroglycerin or clevidipine with a loop diuretic. Avoid pure beta blockade in acute decompensated pulmonary edema."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Besides CPVT, which classic toxicity produces bidirectional ventricular tachycardia?",
+  "back": "Digoxin toxicity. Digoxin toxicity also classically causes atrial tachycardia with 2:1 AV block; treat significant toxicity with digoxin immune Fab."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the guideline position on MRA, ARNI, and ARB therapy in HFpEF?",
+  "back": "Class 2b options that may reduce hospitalizations, with benefit concentrated at the lower end of the preserved ejection fraction spectrum."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What peak VO2 on cardiopulmonary exercise testing supports listing for heart transplantation?",
+  "back": "Peak VO2 ≤14 mL/kg/min, or ≤12 mL/kg/min in patients on a beta-blocker."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How long a nitrate-free interval prevents nitrate tolerance with long-acting therapy?",
+  "back": "10 to 14 hours daily, typically overnight. Continuous 24-hour dosing causes tolerance and loss of antianginal effect."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Outside V2 to V3, what ST elevation qualifies as STEMI on ECG?",
+  "back": "New ST elevation ≥1 mm at the J point in at least two contiguous leads."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the door-in-door-out goal at a non-PCI hospital transferring a STEMI patient?",
+  "back": "30 minutes or less from arrival to departure for the PCI center."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What clinical and jugular venous findings suggest constrictive pericarditis at the bedside?",
+  "back": "Elevated jugular venous pressure with a prominent y descent, Kussmaul sign (jugular pressure rising with inspiration), an early diastolic pericardial knock, edema, and ascites."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Does AF pattern (paroxysmal versus persistent) change the decision to anticoagulate for stroke prevention?",
+  "back": "No. Anticoagulation is driven by stroke risk score, not by AF burden or pattern, per the 2023 AF guideline."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which physical findings point to severe rather than mild aortic stenosis?",
+  "back": "Pulsus parvus et tardus, a late-peaking murmur, and a soft, single, or absent A2 component of S2."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which CHA2DS2-VASc components score 2 points each, and which score 1 point each?",
+  "back": "Two points: age ≥75 and prior stroke, TIA, or thromboembolism. One point each: heart failure, hypertension, diabetes, vascular disease, age 65 to 74, and female sex."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What characterizes anthracycline cardiotoxicity, and at what cumulative doxorubicin dose does risk climb?",
+  "back": "Dose-dependent, largely irreversible myocyte injury; risk rises substantially at cumulative doxorubicin doses ≥250 mg/m². Monitor LVEF and global longitudinal strain before and during therapy."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "A patient with severe aortic stenosis develops exertional angina, syncope, or heart failure. What is the recommendation?",
+  "back": "Symptomatic severe aortic stenosis is stage D and carries a class 1 indication for aortic valve replacement regardless of ejection fraction."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Name four distinct coronary mechanisms that can produce MINOCA.",
+  "back": "Plaque disruption below angiographic detection, coronary vasospasm, spontaneous coronary artery dissection, and coronary embolism or thrombosis, including microvascular causes."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Spontaneous coronary artery dissection: typical patient, and which systemic condition should be screened for?",
+  "back": "Women under about 50, including peripartum patients, often without atherosclerotic risk factors. Screen for fibromuscular dysplasia with head-to-pelvis vascular imaging."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When should the tricuspid valve be addressed during left-sided valve surgery?",
+  "back": "Severe tricuspid regurgitation at the time of left-sided surgery is class 1; repair is also reasonable for lesser regurgitation with annular dilation above 4.0 cm."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which findings define uncontrolled infection warranting surgery in endocarditis?",
+  "back": "Paravalvular abscess or fistula, new heart block, and persistent bacteremia or fever 5 to 7 days into appropriate antibiotic therapy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Fondaparinux in NSTE-ACS: dose, renal contraindication, and the PCI-specific hazard?",
+  "back": "2.5 mg subcutaneously daily; contraindicated below a creatinine clearance of 30 mL/min. It must never be the sole anticoagulant during PCI because of catheter thrombosis, so add UFH."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "For patients under 50 needing valve replacement, which prosthesis type does the guideline favor?",
+  "back": "A mechanical prosthesis is reasonable if anticoagulation is acceptable, because bioprosthetic valves degenerate substantially faster in younger patients."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is the most common secondary cause of hypertension, and its screening test?",
+  "back": "Primary aldosteronism. Screen with a plasma aldosterone-to-renin ratio; suppressed renin with elevated aldosterone suggests the diagnosis."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "AF onset clearly within the last 48 hours in a low stroke-risk patient: can you cardiovert without 3 weeks of anticoagulation?",
+  "back": "Yes, early cardioversion is acceptable; give anticoagulation at presentation and continue at least 4 weeks after. Unstable patients are cardioverted immediately regardless of duration."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "How is acute pulmonary embolism stratified into high, intermediate, and low risk?",
+  "back": "High risk: hemodynamic instability such as arrest, obstructive shock, or persistent hypotension. Intermediate risk: stable with RV dysfunction or elevated troponin (both defines intermediate-high). Low risk: none of these."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "How is cardioinhibitory carotid sinus hypersensitivity defined, and when does it warrant pacing?",
+  "back": "Carotid sinus massage producing asystole ≥3 seconds with reproduction of syncope; pacing is indicated for recurrent syncope from the cardioinhibitory response."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which natriuretic peptide should be followed in patients taking sacubitril/valsartan, and why?",
+  "back": "NT-proBNP. Neprilysin inhibition raises BNP because BNP is a neprilysin substrate; NT-proBNP is not degraded by neprilysin and remains interpretable."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Ranolazine: mechanism, hemodynamic profile, and its main ECG caution?",
+  "back": "Inhibits the late inward sodium current, reducing diastolic wall tension. It lowers neither heart rate nor blood pressure, but prolongs QT and interacts with strong CYP3A inhibitors."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "State the core principles of managing acute right ventricular failure.",
+  "back": "Avoid excess volume loading, maintain systemic pressure with norepinephrine to preserve RV coronary perfusion, add inotropes for low output, and correct hypoxia and acidosis, which raise pulmonary vascular resistance."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What ECG finding suggests left ventricular aneurysm weeks after anterior MI?",
+  "back": "Persistent ST elevation more than 2 to 4 weeks post-MI, typically in anterior leads, often with deep Q waves. Complications include thrombus, heart failure, and ventricular arrhythmias."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Name the major PAH drug classes and their molecular targets.",
+  "back": "Endothelin receptor antagonists (ambrisentan, bosentan, macitentan); PDE5 inhibitors (sildenafil, tadalafil); the soluble guanylate cyclase stimulator riociguat; and prostacyclin pathway agents (epoprostenol, treprostinil, iloprost, selexipag)."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What distinguishes ACC/AHA Stage C from Stage D heart failure?",
+  "back": "Stage C is structural disease with current or prior symptoms; Stage D is refractory symptoms despite optimized guideline-directed therapy, requiring advanced therapies or palliation."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which procedural anticoagulant is preferred for PCI in a patient with heparin-induced thrombocytopenia?",
+  "back": "Bivalirudin, a direct thrombin inhibitor that does not cross-react with HIT antibodies. Argatroban is an alternative."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What defines paradoxical low-flow, low-gradient aortic stenosis, and how can severity be confirmed?",
+  "back": "Valve area ≤1.0 cm², gradient below 40 mmHg, LVEF ≥50%, and stroke volume index below 35 mL/m²; CT calcium scoring (roughly ≥2000 AU men, ≥1200 AU women) supports true severity."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Name the classic peripheral signs of chronic severe aortic regurgitation.",
+  "back": "Wide pulse pressure with Corrigan water-hammer pulse, de Musset head bobbing, Quincke nail-bed pulsations, Duroziez femoral murmur, and Traube pistol-shot sounds."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "When is aspirin started to prevent preeclampsia in high-risk pregnancy?",
+  "back": "Low-dose aspirin (81 mg) begun between 12 and 16 weeks of gestation, before 16 weeks for maximal benefit, and continued until delivery."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Name four absolute contraindications to fibrinolysis in STEMI.",
+  "back": "Any prior intracranial hemorrhage, ischemic stroke within 3 months, active internal bleeding, and suspected aortic dissection. Intracranial malignancy, AVM, and significant recent head trauma also qualify."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Name conditions other than heart failure that raise natriuretic peptide levels.",
+  "back": "Atrial fibrillation, renal failure, older age, pulmonary embolism, pulmonary hypertension, sepsis, and anemia all elevate natriuretic peptides without decompensated heart failure."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What happens when a magnet is placed over a pacemaker versus over an ICD?",
+  "back": "Pacemaker: asynchronous pacing (DOO or VOO) at the magnet rate, ignoring intrinsic activity. ICD: tachyarrhythmia therapies are suspended, but its pacing function is unchanged."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What ejection fraction and timing criteria define peripartum cardiomyopathy?",
+  "back": "New heart failure with LVEF below 45% arising in the last month of pregnancy or within 5 months postpartum, with no other identifiable cause."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "After PCI in a patient on oral anticoagulation for AF, how is antithrombotic therapy structured?",
+  "back": "Stop aspirin within 1 to 4 weeks and continue a DOAC plus clopidogrel for 6 to 12 months, then anticoagulant alone. Prolonged triple therapy mainly adds bleeding."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "For most patients with AF needing anticoagulation, are DOACs or warfarin preferred, and why?",
+  "back": "DOACs are preferred (Class 1): similar or better stroke prevention with less intracranial hemorrhage than warfarin, except in specific valve situations."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What finding separates SCAI stage B from stage C cardiogenic shock?",
+  "back": "Hypoperfusion. Stage B has relative hypotension without hypoperfusion; stage C shows hypoperfusion, such as elevated lactate, oliguria, cool extremities, or altered mentation, requiring intervention."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "How is cancer therapy-related cardiac dysfunction commonly defined on echocardiography?",
+  "back": "An LVEF decline of more than 10 percentage points to a value below 50%, or a relative global longitudinal strain drop over 15% as an early marker."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What hemodynamic findings make ASD closure a Class 1 recommendation in the 2018 ACHD guideline?",
+  "back": "Right atrial or right ventricular enlargement from a significant left-to-right shunt (Qp:Qs at least 1.5:1), whether or not symptoms are present, without cyanosis or severe pulmonary hypertension."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How does an LV pseudoaneurysm differ from a true aneurysm, and how is it managed?",
+  "back": "A contained free wall rupture bounded only by pericardium, with a narrow neck relative to its cavity. It requires urgent surgical repair because of high rupture risk."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What ECG triad defines ventricular preexcitation in Wolff-Parkinson-White pattern?",
+  "back": "Short PR interval under 120 ms, a slurred QRS upstroke (delta wave), and a widened QRS from fusion over the accessory pathway."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Cangrelor: route, mechanism, and how fast does platelet function recover after stopping it?",
+  "back": "An intravenous, direct-acting, reversible P2Y12 inhibitor with a 3 to 6 minute half-life. Platelet function recovers within about an hour of stopping the infusion."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is heart failure with improved ejection fraction (HFimpEF) defined, and does it permit stopping therapy?",
+  "back": "Baseline LVEF ≤40%, a ≥10 point increase, and a second measurement >40%. Continue guideline-directed medical therapy; withdrawal risks relapse (TRED-HF)."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is first-line drug therapy for Raynaud phenomenon?",
+  "back": "A dihydropyridine calcium channel blocker such as nifedipine or amlodipine, added when cold avoidance and trigger control fail."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "List key contraindications to vasodilator stress agents, and the caffeine instruction before testing.",
+  "back": "Active bronchospasm (especially adenosine), high-grade AV block without a pacemaker, and significant hypotension. Hold caffeine and methylxanthines for at least 12 hours."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "ST elevation in aVR with diffuse ST depression in multiple leads suggests what anatomy?",
+  "back": "Left main coronary obstruction or severe multivessel disease, especially with hemodynamic compromise. It warrants urgent angiography."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Distinguish pacemaker oversensing from undersensing in terms of pacing behavior.",
+  "back": "Oversensing: noise or T waves are read as beats, so pacing is inappropriately inhibited (pauses). Undersensing: intrinsic beats are missed, so spikes fire inappropriately after native complexes."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What regional finding in TOPCAT supports spironolactone use in selected HFpEF patients?",
+  "back": "Patients enrolled in the Americas showed reduced heart failure hospitalization with spironolactone, while the Russia/Georgia cohort had implausibly low event rates and undetectable drug metabolites."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "A regular narrow-complex tachycardia at exactly 150 bpm should raise suspicion for what rhythm?",
+  "back": "Typical atrial flutter with 2:1 conduction: atrial rate near 300 with sawtooth flutter waves, often unmasked by adenosine or vagal maneuvers."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is the pulmonary artery pulsatility index (PAPi) calculated, and what value suggests right ventricular failure?",
+  "back": "PAPi = (systolic PA pressure minus diastolic PA pressure) divided by right atrial pressure. Values <0.9 indicate RV failure in acute inferior MI shock."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Describe type 1 amiodarone-induced thyrotoxicosis and its treatment.",
+  "back": "Iodine-driven excess hormone synthesis in a gland with underlying disease, showing increased Doppler vascularity. Treat with methimazole."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Which leads localize anterior versus lateral infarction, and their arteries?",
+  "back": "V1 to V4 mark the anterior wall from the left anterior descending artery; I, aVL, V5, and V6 mark the lateral wall from the circumflex or diagonal branches."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the purpose of the high-sensitivity troponin 0/1-hour algorithm in chest pain evaluation?",
+  "back": "Rapid rule-out or rule-in of NSTEMI: a very low baseline value plus a small 1-hour delta rules out MI with negative predictive value above 99%."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "How does the ECG separate pericarditis from benign early repolarization?",
+  "back": "In V6, an ST-elevation to T-wave amplitude ratio above 0.25 favors pericarditis; early repolarization shows a lower ratio and J-point notching without PR depression."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How long should elective noncardiac surgery be deferred after drug-eluting stent placement?",
+  "back": "Optimally at least 6 months. If surgery cannot wait, 3 months is the minimum, weighing stent thrombosis against surgical delay."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How do you diagnose right ventricular infarction on ECG, and in what setting should you look?",
+  "back": "ST elevation in right-sided lead V4R, checked in every inferior STEMI, especially with hypotension and clear lungs."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is mavacamten's mechanism, and what LVEF rules govern starting and stopping it?",
+  "back": "A cardiac myosin ATPase inhibitor that reduces LVOT gradients. Start only if LVEF ≥55%, interrupt if LVEF falls below 50%, and prescribe through a REMS program with attention to CYP interactions."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is the drug rule in pheochromocytoma-related hypertensive crisis?",
+  "back": "Alpha blockade first, with phentolamine IV or oral phenoxybenzamine. Beta blockers before alpha blockade cause unopposed alpha stimulation and worsen the crisis."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What is the first-line drug for torsades de pointes even with a normal serum level?",
+  "back": "IV magnesium sulfate 2 g, regardless of magnesium level. Defibrillate if pulseless or sustained."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What is the classic auscultatory hallmark of an atrial septal defect, and why does it occur?",
+  "back": "Wide, fixed splitting of S2: the shunt equalizes right heart filling across respiration, so P2 timing no longer varies. A pulmonic flow murmur often accompanies it."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Who should undergo acute vasoreactivity testing in pulmonary hypertension, and what defines a positive response?",
+  "back": "Only idiopathic, heritable, or drug-induced PAH. Positive: mean PA pressure falls ≥10 mmHg to an absolute value ≤40 mmHg with unchanged or increased cardiac output, usually with inhaled nitric oxide."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How does CRT benefit change with non-LBBB morphology or QRS duration of 120 to 149 ms?",
+  "back": "Benefit weakens and the recommendation drops to class 2a or 2b. Non-LBBB with QRS <150 ms derives the least benefit."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What systolic target applies to ambulatory adults aged 65 and older?",
+  "back": "Below 130 mmHg, supported by SPRINT, for community-dwelling older adults. Individualize for frailty, limited life expectancy, or heavy comorbidity."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "A DAPT score of what value favors extending dual antiplatelet therapy beyond 12 months?",
+  "back": "≥2 favors prolonged DAPT; a score below 2 favors stopping, because bleeding harm outweighs ischemic benefit."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What does an ankle-brachial index above 1.40 mean, and what test follows?",
+  "back": "Noncompressible calcified vessels, common in diabetes and CKD, making the ABI unreliable. Obtain a toe-brachial index; below 0.70 diagnoses PAD."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "How does age separate the two major large-vessel vasculitides?",
+  "back": "Takayasu arteritis typically begins before age 40; giant cell arteritis occurs at 50 and older. Both cause granulomatous inflammation of the aorta and its branches."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target dose of sacubitril/valsartan in chronic HFrEF?",
+  "back": "97/103 mg twice daily, uptitrated from 24/26 or 49/51 mg twice daily as tolerated."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Match physiologic, fixed, and paradoxical S2 splitting to their causes.",
+  "back": "Physiologic splitting widens with inspiration and is normal. Fixed splitting indicates atrial septal defect. Paradoxical splitting, widening on expiration, occurs with LBBB or severe aortic stenosis."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "When should obstructive sleep apnea be pursued as a cause of hypertension?",
+  "back": "Resistant or nocturnal hypertension with snoring, witnessed apneas, obesity, or daytime sleepiness. Diagnose with polysomnography or home sleep testing."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How soon after starting or changing statin therapy should lipids be rechecked?",
+  "back": "4 to 12 weeks after initiation or dose change, then every 3 to 12 months to confirm adherence and adequate percentage LDL-C reduction."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is obstructive thrombosis of a left-sided mechanical valve managed?",
+  "back": "Confirm restricted leaflet motion with TEE plus fluoroscopy or CT, then treat with emergency surgery or slow-infusion low-dose fibrinolytic therapy, chosen by thrombus size, symptoms, and surgical risk."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "In most hypertensive emergencies, how fast should mean arterial pressure fall in the first hour?",
+  "back": "By no more than 25% in the first hour, then toward 160/100 over the next 2 to 6 hours, to preserve organ perfusion."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the standard oral endocarditis prophylaxis regimen before a qualifying dental procedure?",
+  "back": "Amoxicillin 2 g orally, given 30 to 60 minutes before the procedure; children receive 50 mg/kg."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What two cardiovascular diseases does chronic methamphetamine use cause?",
+  "back": "A dilated cardiomyopathy that may partially recover with abstinence, and pulmonary arterial hypertension. It also promotes accelerated coronary disease and arrhythmia."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "In very high risk ASCVD on maximal statin, what LDL-C level triggers adding nonstatin therapy, and in what order?",
+  "back": "LDL-C ≥70 mg/dL. Add ezetimibe first, then a PCSK9 inhibitor if still ≥70 mg/dL."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What pattern of office and out-of-office readings defines white coat hypertension?",
+  "back": "Elevated office readings with normal out-of-office readings on ambulatory or home monitoring, in a patient not on antihypertensive therapy."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "What valvular events produce the first and second heart sounds?",
+  "back": "S1 is closure of the mitral and tricuspid valves at systole's onset. S2 is closure of the aortic then pulmonic valves at systole's end."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the unfractionated heparin bolus for PCI without a glycoprotein IIb/IIIa inhibitor?",
+  "back": "70 to 100 units/kg IV, targeting an activated clotting time of roughly 250 to 300 seconds. With a GP IIb/IIIa inhibitor, use 50 to 70 units/kg."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "How do periprocedural risks differ between carotid stenting and endarterectomy?",
+  "back": "Stenting carries more periprocedural stroke, especially in patients over 70; endarterectomy carries more myocardial infarction and cranial nerve injury. Stenting suits hostile necks and high surgical risk."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What are the diagnostic criteria for acute pericarditis?",
+  "back": "At least 2 of 4: characteristic pleuritic positional chest pain, pericardial friction rub, new widespread ST elevation or PR depression, and new or worsening pericardial effusion."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is antithrombotic therapy handled after TAVR in a patient with atrial fibrillation?",
+  "back": "Oral anticoagulation alone; routinely adding an antiplatelet agent increases bleeding without ischemic benefit."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is cancer therapy-related cardiac dysfunction defined by imaging surveillance?",
+  "back": "An LVEF decline ≥10 percentage points to below 50%, or a relative global longitudinal strain reduction >15% from baseline as an early marker."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In orthodromic AVRT, which direction does the accessory pathway conduct during tachycardia?",
+  "back": "Retrograde. The impulse goes down the AV node and back up the accessory pathway, giving a narrow QRS with a short RP interval and a visible retrograde P after the QRS."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What reentrant circuit produces typical AVNRT, and where does the circuit live?",
+  "back": "Dual AV nodal pathways: slow pathway conducts down, fast pathway conducts back up, entirely within the AV nodal region. It is the most common paroxysmal SVT in adults."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What are the characteristic findings and activity guidance in arrhythmogenic right ventricular cardiomyopathy?",
+  "back": "Desmosomal variants (commonly PKP2), T-wave inversion V1 to V3, epsilon waves, and VT of LBBB morphology from the RV. Restrict high-intensity and competitive exercise, which accelerates disease."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the IV to oral conversion for furosemide, and why?",
+  "back": "IV 20 mg is roughly equivalent to oral 40 mg because oral furosemide bioavailability averages about 50%. Torsemide and bumetanide are nearly fully absorbed."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which DOAC is dosed by three criteria including weight ≤60 kg, and which requires twice daily dosing with food?",
+  "back": "Apixaban reduces to 2.5 mg twice daily with 2 of 3: age ≥80, weight ≤60 kg, creatinine ≥1.5 mg/dL. Rivaroxaban 20 mg is once daily with the evening meal."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What echocardiographic criteria define severe chronic aortic regurgitation?",
+  "back": "Vena contracta above 0.6 cm, effective orifice ≥0.3 cm², regurgitant volume ≥60 mL, regurgitant fraction ≥50%, and holodiastolic flow reversal in the descending aorta."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is a mechanical-valve pregnancy managed in the first trimester when the warfarin dose exceeds 5 mg daily?",
+  "back": "Switch to dose-adjusted twice-daily low molecular weight heparin with anti-Xa peak monitoring, targeting roughly 0.8 to 1.2 U/mL, or use dose-adjusted intravenous heparin."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "State the primary prevention ICD criteria for HFrEF with NYHA class II to III symptoms.",
+  "back": "LVEF ≤35% despite ≥3 months of optimal guideline-directed therapy, with expected meaningful survival greater than 1 year. Applies to ischemic and nonischemic cardiomyopathy."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What did the 2023 Duke-ISCVID update add to endocarditis diagnosis?",
+  "back": "18F-FDG PET/CT and cardiac CT findings as imaging major criteria, intraoperative findings as a new major criterion, and expanded typical organisms and molecular microbiology such as PCR."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What heart rate finding points to a neurogenic cause of orthostatic hypotension?",
+  "back": "A blunted compensatory rise, typically under 15 beats per minute despite a large pressure fall, indicating autonomic failure rather than volume depletion."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "A coronary artery calcium score of zero in an intermediate-risk adult supports what statin decision?",
+  "back": "Withholding or deferring statin therapy and reassessing in 5 to 10 years, provided the patient does not smoke and lacks diabetes or a strong family history."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "When does a GLP-1 receptor agonist carry a cardiovascular indication?",
+  "back": "Type 2 diabetes with established atherosclerotic cardiovascular disease or high risk, where liraglutide and semaglutide reduce major adverse cardiovascular events."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What hemodynamics distinguish isolated postcapillary from combined pre- and postcapillary pulmonary hypertension?",
+  "back": "Both have wedge pressure >15 mmHg; isolated postcapillary has PVR ≤2 Wood units, while combined disease has PVR >2 Wood units."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the preferred treatment for post-MI pericarditis, and which drugs are avoided early?",
+  "back": "High-dose aspirin plus colchicine. Avoid NSAIDs and glucocorticoids early after MI because they impair infarct healing and may promote wall thinning."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the Carvallo sign and what does it indicate?",
+  "back": "A right-sided murmur, classically tricuspid regurgitation, that grows louder with inspiration because venous return to the right heart increases."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which patients merit consideration of DAPT extended beyond 12 months, and with what regimen?",
+  "back": "High ischemic risk patients who tolerated a year of DAPT without bleeding, such as prior MI. Ticagrelor 60 mg twice daily plus aspirin is the studied regimen."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which murmurs get louder with sustained handgrip, and which get softer?",
+  "back": "Handgrip raises afterload, intensifying mitral regurgitation, aortic regurgitation, and VSD murmurs while softening aortic stenosis and HOCM murmurs."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When does embolic risk justify surgery in left-sided endocarditis?",
+  "back": "Recurrent emboli with persistent vegetation despite appropriate antibiotics; surgery is also reasonable for a mobile vegetation longer than 10 mm, particularly on the anterior mitral leaflet."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Name the key contraindications to starting sacubitril/valsartan therapy in heart failure.",
+  "back": "Any history of angioedema, concurrent ACE inhibitor use or use within 36 hours, and pregnancy."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What features suggest Fabry disease in a patient with unexplained LVH?",
+  "back": "X-linked alpha-galactosidase A deficiency mimicking hypertrophic cardiomyopathy, with acroparesthesias, angiokeratomas, anhidrosis, corneal deposits, and proteinuric kidney disease. Enzyme replacement therapy exists, so recognition matters."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "How does pacemaker-mediated (endless loop) tachycardia start, and how do devices terminate it?",
+  "back": "A retrogradely conducted atrial beat is sensed and tracked, creating a loop at the upper rate limit. Extending the postventricular atrial refractory period (PVARP) or magnet application breaks it."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What hemodynamic numbers define severe and very severe rheumatic mitral stenosis?",
+  "back": "Severe: valve area ≤1.5 cm² with pressure half-time ≥150 ms. Very severe: valve area ≤1.0 cm² with pressure half-time ≥220 ms."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Cardiac rehabilitation after MI, PCI, or CABG: what is its guideline class and typical structure?",
+  "back": "A Class I recommendation. Typically 36 supervised sessions over about 12 weeks, combining exercise training, risk factor management, and education."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "How is atrial fibrillation caused by thyrotoxicosis managed acutely and definitively?",
+  "back": "Beta blockade, classically propranolol, for rate control plus definitive treatment of the hyperthyroidism. Many patients revert to sinus rhythm within months of becoming euthyroid."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Is PCI reasonable for STEMI presenting 12 to 24 hours after symptom onset?",
+  "back": "Yes, when there is ongoing ischemia, clinical or electrical instability, or persistent symptoms. Routine PCI of a totally occluded artery beyond 24 hours in a stable asymptomatic patient is not."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is the characteristic side effect of dihydropyridine calcium channel blockers?",
+  "back": "Dose-dependent peripheral edema from precapillary vasodilation. It responds to adding an ACE inhibitor or ARB, not to diuretics."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why must a monoclonal protein screen precede diagnosing ATTR amyloidosis by bone scintigraphy?",
+  "back": "AL amyloidosis can show myocardial tracer uptake, and missing AL delays urgently needed chemotherapy. Any monoclonal protein requires tissue biopsy with amyloid typing."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is first-line anti-inflammatory dosing for acute pericarditis?",
+  "back": "Ibuprofen 600 mg three times daily, or aspirin 750 to 1000 mg three times daily (preferred after myocardial infarction), for 1 to 2 weeks, then tapered."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which findings trigger intervention in asymptomatic severe aortic stenosis?",
+  "back": "LVEF below 50%, symptoms or a fall in blood pressure on exercise testing, very severe stenosis, or rapid progression; each supports valve replacement."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which patient profile gains the strongest class 1 benefit from cardiac resynchronization therapy?",
+  "back": "LVEF ≤35%, sinus rhythm, left bundle branch block with QRS ≥150 ms, and NYHA class II to IV symptoms on guideline-directed therapy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How does morphine interact with oral P2Y12 inhibitors in ACS?",
+  "back": "Morphine delays gastric emptying, slowing P2Y12 inhibitor absorption and delaying platelet inhibition. Use it only for unacceptable pain despite anti-ischemic therapy."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What cardiac and systemic clues suggest hemochromatosis, and the screening tests?",
+  "back": "Cardiomyopathy, often restrictive early then dilated, with conduction disease, plus diabetes, bronze skin, arthropathy, and liver disease. Screen with ferritin and transferrin saturation."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why are thiazolidinediones such as pioglitazone avoided in symptomatic heart failure?",
+  "back": "They cause fluid retention and increase heart failure hospitalization, so they are harmful in NYHA class II to IV heart failure."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Describe the auscultatory findings of mitral stenosis and the marker of worsening severity.",
+  "back": "Loud S1, an opening snap after S2, and a low-pitched apical diastolic rumble in left lateral decubitus; a shorter A2-to-opening-snap interval indicates more severe stenosis."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "Which ECG features favor pericarditis over ST-elevation myocardial infarction?",
+  "back": "Diffuse concave ST elevation without reciprocal depression (except aVR), PR depression, and no Q waves or territorial pattern; STEMI shows convex, regional elevation with reciprocal changes."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "LV thrombus after MI: which infarct location predisposes, and what anticoagulation is standard?",
+  "back": "Anterior MI with apical akinesis or aneurysm. Treat with warfarin for about 3 months, with imaging to confirm resolution; DOACs are an increasingly used alternative."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What bedside findings define cardiac tamponade, including the pulsus paradoxus threshold?",
+  "back": "Hypotension, elevated jugular venous pressure, and muffled heart sounds (Beck triad), with an inspiratory systolic pressure fall greater than 10 mmHg defining pulsus paradoxus."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Why is simvastatin 80 mg no longer initiated, and what interactions limit lower doses?",
+  "back": "The 80 mg dose carries excess myopathy and rhabdomyolysis risk, so 40 mg is the practical maximum. Strong CYP3A4 inhibitors and gemfibrozil further raise myopathy risk."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What findings 60 to 90 minutes after fibrinolysis indicate failed reperfusion and the need for rescue PCI?",
+  "back": "Less than 50% resolution of the maximal ST elevation, persistent chest pain, or hemodynamic or electrical instability."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Name three clinical or radiographic clues to undiagnosed aortic coarctation in an adult.",
+  "back": "Upper extremity hypertension with radial-femoral pulse delay, a systolic murmur over the back, rib notching and the figure 3 sign on chest radiograph, and diminished lower extremity pressures."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which antihypertensive drug classes are contraindicated during pregnancy, and why?",
+  "back": "ACE inhibitors, ARBs, and direct renin inhibitors, which cause fetal renal injury, oligohydramnios, and skeletal defects. Mineralocorticoid receptor antagonists are also avoided."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "List four commonly tested drug classes that prolong the QT and can precipitate torsades.",
+  "back": "Class IA and III antiarrhythmics (quinidine, sotalol, dofetilide, ibutilide), macrolides and fluoroquinolones, azole antifungals, antipsychotics such as haloperidol, and methadone. Hypokalemia and hypomagnesemia compound the risk."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What is the definitive treatment for symptomatic WPW with documented tachyarrhythmia?",
+  "back": "Catheter ablation of the accessory pathway, with success rates above 95% and low complication rates."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What quantitative criteria define severe primary mitral regurgitation?",
+  "back": "Effective regurgitant orifice ≥0.40 cm², regurgitant volume ≥60 mL, regurgitant fraction ≥50%, and vena contracta ≥0.7 cm."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What echocardiographic numbers define severe high-gradient aortic stenosis?",
+  "back": "Peak aortic velocity ≥4 m/s or mean gradient ≥40 mmHg, with valve area typically ≤1.0 cm²."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Within what symptom-onset window is fibrinolysis indicated for STEMI when timely PCI is unavailable?",
+  "back": "Within 12 hours of symptom onset. Benefit is greatest in the first 3 hours and falls steadily with delay."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "A pregnant patient with a mechanical valve takes warfarin 4 mg daily. What is the first-trimester strategy?",
+  "back": "Continuing warfarin is reasonable when the dose is ≤5 mg daily, since it carries the lowest maternal valve thrombosis risk with low embryopathy risk at that dose."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is midodrine's mechanism and its key dosing precaution?",
+  "back": "An alpha-1 agonist prodrug that raises standing pressure. Do not dose within 4 hours of bedtime because it causes supine hypertension."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is dobutamine's mechanism, and what chronic therapy blunts its effect?",
+  "back": "A beta-1 receptor agonist increasing contractility. Chronic beta-blocker therapy competitively blunts its effect, so higher doses or a different agent may be needed."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What is the most common ASD type, and which type is amenable to percutaneous device closure?",
+  "back": "Secundum ASD, in the fossa ovalis, is most common and the only type routinely closed percutaneously, given adequate rims."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Explain the VSD murmur paradox: why does a small defect sound louder than a large one?",
+  "back": "A small restrictive VSD maintains a high interventricular pressure gradient, producing a loud harsh holosystolic murmur; a large nonrestrictive defect equalizes pressures and can be nearly silent."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the genetic basis and inheritance pattern of hypertrophic cardiomyopathy?",
+  "back": "Autosomal dominant sarcomere gene variants, most commonly MYBPC3 and MYH7. First-degree relatives need clinical screening, with cascade genetic testing when a pathogenic variant is known."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What dose of colchicine may be considered for secondary prevention in chronic coronary disease, and why?",
+  "back": "0.5 mg daily, an anti-inflammatory strategy shown in LoDoCo2 and COLCOT to reduce recurrent cardiovascular events."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What NT-proBNP level effectively rules out acute heart failure in the emergency setting?",
+  "back": "NT-proBNP <300 pg/mL has a high negative predictive value for excluding acute heart failure."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What counseling applies to future pregnancy after peripartum cardiomyopathy?",
+  "back": "Subsequent pregnancy carries substantial risk of relapse and death when LVEF has not normalized, so it is discouraged with persistent LV dysfunction."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Which valve lesion and ECG finding accompany an ostium primum ASD?",
+  "back": "A cleft anterior mitral leaflet with mitral regurgitation, plus left axis deviation with first-degree AV block on ECG. It is part of the AV septal (endocardial cushion) defect spectrum."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is the warm and wet acute heart failure profile managed?",
+  "back": "Congested but well perfused, the most common presentation: treat with IV loop diuretics, adding vasodilators for hypertension or refractory congestion. Inotropes are not indicated."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "After successful fibrinolysis for STEMI, when should transfer for angiography occur?",
+  "back": "Routinely within 3 to 24 hours of lysis, the pharmacoinvasive strategy, even when reperfusion appears successful."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What systolic and diastolic readings define stage 1 hypertension?",
+  "back": "Systolic 130 to 139 mmHg or diastolic 80 to 89 mmHg."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "At what aortic diameter does a bicuspid aortic valve patient need aortic surgery?",
+  "back": "At ≥5.5 cm; at ≥5.0 cm it is reasonable with risk factors such as family history of dissection or growth ≥0.5 cm per year, or at low risk in an experienced center."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What happens to the HOCM murmur and the mitral valve prolapse click with squatting versus standing?",
+  "back": "Squatting raises preload and afterload, softening HOCM and moving the MVP click later; standing does the opposite, making both earlier and louder."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What blood pressure is required before giving thrombolytics in acute ischemic stroke?",
+  "back": "Below 185/110 mmHg before the lytic, then maintained below 180/105 mmHg for 24 hours afterward."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How can DAPT be abbreviated after PCI in patients at high bleeding risk?",
+  "back": "Stop one agent after 1 to 3 months and continue P2Y12 inhibitor monotherapy, an approach shown to cut bleeding without an ischemic penalty."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How often should asymptomatic aortic stenosis be re-imaged by severity?",
+  "back": "Every 3 to 5 years for mild disease, every 1 to 2 years for moderate, and every 6 to 12 months for severe stenosis."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is first-line medical therapy for symptomatic obstructive hypertrophic cardiomyopathy?",
+  "back": "A nonvasodilating beta-blocker. Verapamil or diltiazem is the alternative if beta-blockers are ineffective or not tolerated."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the first-line treatment for severe secondary mitral regurgitation with reduced ejection fraction?",
+  "back": "Optimized guideline-directed medical therapy for heart failure, plus cardiac resynchronization when indicated, before any valve intervention is considered."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "In patients ≥75 years receiving a pharmacoinvasive strategy, how is tenecteplase dosing adjusted?",
+  "back": "Give half the standard weight-based dose. Full-dose tenecteplase in the elderly caused excess intracranial hemorrhage in the STREAM trial."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What distinguishes ACC/AHA Stage A from Stage B heart failure?",
+  "back": "Stage A is at risk with no structural disease or symptoms; Stage B is pre-heart failure with structural disease, elevated filling pressures, or raised natriuretic peptides but no symptoms."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What is the initial adult IV adenosine dose for SVT, and how must it be given?",
+  "back": "6 mg by rapid IV push with an immediate saline flush; if ineffective, give 12 mg. Its half-life is only seconds."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which three beta-blockers have mortality evidence in HFrEF and are guideline endorsed?",
+  "back": "Carvedilol, metoprolol succinate, and bisoprolol. Other beta-blockers lack comparable HFrEF mortality evidence and should not substitute."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Give the normal adult ranges for the PR, QRS, and QTc intervals.",
+  "back": "PR interval 120 to 200 ms, QRS duration below 120 ms, and corrected QT below 450 ms in men and 460 ms in women."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "State the Fick principle for measuring cardiac output.",
+  "back": "Cardiac output equals oxygen consumption divided by the arteriovenous oxygen content difference: CO = VO2 ÷ (arterial O2 content − venous O2 content)."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Wellens syndrome: what is the ECG pattern and what lesion does it signal?",
+  "back": "Biphasic or deeply inverted T waves in V2 to V3 during a pain-free interval, signaling critical proximal LAD stenosis and high risk of anterior MI."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is the first-line therapy for intermittent claudication, and its prescription?",
+  "back": "Supervised exercise: walking to near-maximal claudication pain, 30 to 45 minutes per session, at least 3 sessions weekly for at least 12 weeks."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What is Dressler syndrome and when does it occur after myocardial infarction?",
+  "back": "An immune-mediated pericarditis with fever and effusion appearing weeks to months after infarction, typically 1 to 8 weeks, treated with aspirin-based therapy plus colchicine."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Why does Loeys-Dietz syndrome warrant aortic repair at smaller diameters?",
+  "back": "Its aortas dissect at smaller sizes than Marfan, so repair is considered around 4.5 cm depending on genotype and family history."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which procedures warrant endocarditis prophylaxis in qualifying patients?",
+  "back": "Dental procedures manipulating gingival tissue or the periapical region, or perforating oral mucosa; routine GI or GU procedures do not qualify without active infection."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why is ARNI preferred over an ACE inhibitor in symptomatic chronic HFrEF?",
+  "back": "Sacubitril/valsartan reduced cardiovascular death and heart failure hospitalization by 20% versus enalapril in PARADIGM-HF, earning a class 1 preference."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Name the four pillars of guideline-directed medical therapy for HFrEF.",
+  "back": "ARNI (or ACEi/ARB), an evidence-based beta-blocker, a mineralocorticoid receptor antagonist, and an SGLT2 inhibitor."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is the biochemical screening test of choice for pheochromocytoma?",
+  "back": "Plasma free metanephrines or 24-hour urine fractionated metanephrines, both highly sensitive. Confirm imaging only after biochemical diagnosis."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Endocarditis grows Streptococcus gallolyticus (formerly bovis). What workup is mandatory?",
+  "back": "Colonoscopy, because of the strong association with colorectal neoplasia."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What disease-modifying drug is approved for transthyretin amyloid cardiomyopathy, and how does it work?",
+  "back": "Tafamidis, a transthyretin stabilizer that reduced all-cause mortality and cardiovascular hospitalization in ATTR-ACT."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which organism classically causes subacute native valve endocarditis after dental procedures?",
+  "back": "Viridans group streptococci, oral flora that seed previously damaged valves during gingival bacteremia."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What outcome benefits does cardiac rehabilitation deliver after MI?",
+  "back": "Reduced cardiovascular mortality, fewer hospital readmissions, and improved exercise capacity and quality of life. It remains substantially underused, especially in women and older adults."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "At what diameters is elective abdominal aortic aneurysm repair indicated?",
+  "back": "≥5.5 cm in men and ≥5.0 cm in women, or growth over 0.5 cm in 6 months, or any symptomatic aneurysm."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How long must you wait after MI, and after revascularization, before implanting a primary prevention ICD?",
+  "back": "At least 40 days after MI and 90 days after revascularization, with persisting LVEF ≤35% despite guideline-directed medical therapy."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How many days before elective CABG should prasugrel be held?",
+  "back": "At least 7 days, the longest hold of the oral P2Y12 inhibitors, reflecting its potent irreversible inhibition."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What findings on transesophageal echo contraindicate balloon mitral commissurotomy?",
+  "back": "Left atrial thrombus or more than mild mitral regurgitation; TEE must exclude both before the procedure."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is peripartum cardiomyopathy defined, and which HF drugs are unsafe before delivery?",
+  "back": "LVEF <45% developing toward the end of pregnancy or in the months after delivery without another cause. ACE inhibitors, ARBs, ARNI, and MRAs are contraindicated during pregnancy."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How does Valsalva strain separate the murmur of hypertrophic obstructive cardiomyopathy from valvular aortic stenosis?",
+  "back": "Valsalva decreases preload, so the HOCM murmur grows louder while the aortic stenosis murmur softens."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Which agent is preferred for high-risk PAH with right heart failure, and what is its key practical limitation?",
+  "back": "Intravenous epoprostenol, the agent with mortality benefit. Its half-life is only a few minutes, so abrupt infusion interruption can cause life-threatening rebound pulmonary hypertension."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Name the two PCSK9 monoclonal antibodies and their approximate LDL-C reduction.",
+  "back": "Evolocumab and alirocumab, injected every 2 to 4 weeks, each lowering LDL-C by about 60%."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Long QT type 3: when do events occur, what is the channel defect, and which adjunct drug helps?",
+  "back": "Events occur at rest or during sleep; the defect is SCN5A sodium channel gain of function. Mexiletine, a sodium channel blocker, can shorten the QT as an adjunct."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When does chronic severe primary mitral regurgitation warrant surgery?",
+  "back": "With symptoms, or in asymptomatic patients once LVEF is ≤60% or LVESD reaches ≥40 mm; both situations are class 1."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Describe the aortic regurgitation murmur and how to bring it out on exam.",
+  "back": "A high-pitched blowing decrescendo diastolic murmur at the left sternal border, loudest with the patient sitting, leaning forward, in end-expiration; handgrip intensifies it."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Bempedoic acid: mechanism, why it spares muscle, and two notable adverse effects?",
+  "back": "Inhibits ATP-citrate lyase upstream of HMG-CoA reductase and is activated only in the liver, so myalgia is rare. It raises uric acid, causing gout, and increases tendon rupture risk."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What is the dimensionless index, and what value suggests severe aortic stenosis?",
+  "back": "The ratio of LVOT to aortic valve velocity-time integrals; a value below 0.25 suggests severe stenosis and is relatively independent of flow."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What causes pacemaker syndrome, and what is the fix?",
+  "back": "Loss of AV synchrony with single-chamber ventricular (VVI) pacing: atria contract against closed AV valves, causing fatigue, fullness, and hypotension. Upgrade to dual-chamber (atrial-tracking) pacing."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "In congenitally corrected transposition (L-TGA), which ventricle supports the systemic circulation, and what conduction problem accrues?",
+  "back": "The morphologic right ventricle, which fails over decades with systemic AV valve regurgitation. Spontaneous complete AV block develops at roughly 2% per year."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What wall thickness defines hypertrophic cardiomyopathy in an adult without another explanation?",
+  "back": "Maximal LV wall thickness ≥15 mm not explained by loading conditions; ≥13 mm suffices with a positive family history or pathogenic sarcomere variant."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "State the four 10-year ASCVD risk bands from the Pooled Cohort Equations.",
+  "back": "Low under 5%, borderline 5 to under 7.5%, intermediate 7.5 to under 20%, and high ≥20%. Statin discussion begins at intermediate risk."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Why are nitrates avoided in right ventricular infarction?",
+  "back": "The failing RV is preload dependent, so venodilation can cause profound hypotension. Treat hypotension with IV fluids and reperfusion instead."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What is the screening test of choice for chronic thromboembolic pulmonary hypertension (CTEPH)?",
+  "back": "Ventilation/perfusion scintigraphy. A normal V/Q scan effectively excludes CTEPH, outperforming CT pulmonary angiography for screening."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What clinical triad suggests a diagnosis of chronic mesenteric ischemia?",
+  "back": "Postprandial abdominal pain within an hour of eating, fear of food, and unintentional weight loss, usually with multivessel mesenteric stenosis."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which drug classes worsen outflow obstruction in obstructive HCM and should be avoided?",
+  "back": "Pure vasodilators such as dihydropyridines and nitrates, and aggressive diuresis. Both reduce preload or afterload and increase the dynamic gradient."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What Rutherford acute limb ischemia finding mandates emergent revascularization?",
+  "back": "Class IIb: motor weakness with sensory loss beyond the toes, an inaudible arterial Doppler signal, but an audible venous signal. The limb is immediately threatened and needs revascularization within hours."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What are cocaine's main cardiac effects and the initial chest pain management?",
+  "back": "Coronary vasospasm, thrombosis, tachycardia, and hypertension causing ischemia. Treat with benzodiazepines, nitroglycerin, and aspirin; avoid beta blockers in the acute intoxicated phase."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Contrast the timing of peri-infarction pericarditis with Dressler syndrome.",
+  "back": "Peri-infarction pericarditis occurs within 1 to 4 days of transmural MI. Dressler syndrome is immune mediated, appearing weeks to months later, typically 2 to 8 weeks."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What conditions accompany bicuspid aortic valve, and who else should be screened?",
+  "back": "Aortopathy of the root and ascending aorta and aortic coarctation; screening echocardiography of first-degree relatives is reasonable."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What antithrombotic therapy follows surgical bioprosthetic valve replacement?",
+  "back": "Aspirin 75 to 100 mg daily; a vitamin K antagonist to INR 2.5 for 3 to 6 months is also reasonable when bleeding risk is low."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why should NSAIDs be avoided in patients with heart failure?",
+  "back": "They promote sodium and water retention, blunt diuretic and RAAS inhibitor effect, worsen renal function, and increase heart failure hospitalization risk."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Describe type 2 amiodarone-induced thyrotoxicosis and its treatment.",
+  "back": "A destructive thyroiditis releasing preformed hormone from a normal gland, with low uptake and low Doppler vascularity. Treat with glucocorticoids."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How do ACC/AHA heart failure stages differ conceptually from NYHA functional classes?",
+  "back": "Stages describe disease progression and only advance forward; NYHA class grades current symptom severity and can move in both directions with treatment."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Name clinical triggers that should prompt a secondary hypertension workup.",
+  "back": "Onset before age 30, resistant hypertension, abrupt worsening of controlled pressure, unprovoked hypokalemia, severe or malignant hypertension, and disproportionate target organ damage."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "At what cumulative doxorubicin dose does cardiotoxicity risk rise substantially?",
+  "back": "Risk climbs with cumulative dose and becomes substantial above roughly 250 mg/m2. Toxicity is dose-dependent and often irreversible, so obtain baseline and surveillance echocardiography."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "When is revascularization considered for asymptomatic carotid stenosis?",
+  "back": "Selected patients with ≥70% stenosis, low periprocedural risk, and life expectancy over 5 years, alongside intensive medical therapy. Medical therapy alone is reasonable for many."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What surveillance testing does chronic amiodarone therapy require, and at what interval?",
+  "back": "Thyroid and liver function tests at baseline and roughly every 6 months, a baseline chest radiograph, and pulmonary evaluation (PFTs with DLCO) for new respiratory symptoms; periodic eye and skin review."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Name key causes of culture-negative endocarditis and how they are identified.",
+  "back": "Coxiella burnetii, Bartonella species, Brucella, and Tropheryma whipplei; diagnosis relies on serology, PCR, or valve tissue testing rather than routine cultures."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which COAPT-based criteria support transcatheter edge-to-edge repair for secondary mitral regurgitation?",
+  "back": "Persistent symptoms on optimal medical therapy, suitable anatomy, LVEF 20 to 50%, LVESD ≤70 mm, and pulmonary artery systolic pressure ≤70 mmHg."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What arrhythmia pattern, trigger, and gene define catecholaminergic polymorphic ventricular tachycardia (CPVT)?",
+  "back": "Bidirectional or polymorphic VT with exercise or emotion, a normal resting ECG, and RyR2 ryanodine receptor mutations. Treat with nonselective beta blockers, adding flecainide if needed."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which SGLT2 inhibitors and doses are guideline endorsed for HFrEF regardless of diabetes status?",
+  "back": "Dapagliflozin 10 mg daily and empagliflozin 10 mg daily, each with benefit independent of diabetes status (DAPA-HF, EMPEROR-Reduced)."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What 24-hour, daytime, and home blood pressure means correspond to an office reading of 130/80 mmHg?",
+  "back": "24-hour mean ≥125/75, daytime mean ≥130/80, and home average ≥130/80 mmHg."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the first-line antianginal class in chronic stable angina, and the usual resting heart rate goal?",
+  "back": "Beta blockers, titrated to a resting heart rate of about 55 to 60 beats per minute."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What arrhythmia causes most pre-hospital deaths in acute MI, and what is its late prognostic meaning?",
+  "back": "Ventricular fibrillation. Within the first 48 hours it does not by itself mandate an ICD, but VF or sustained VT beyond 48 hours signals high arrhythmic risk."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target dose range of spironolactone in HFrEF?",
+  "back": "25 to 50 mg once daily, typically started at 12.5 to 25 mg daily."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Vasospastic (Prinzmetal) angina: first-line therapy and which drug class can worsen it?",
+  "back": "Calcium channel blockers, often with long-acting nitrates. Nonselective beta blockers can worsen spasm by leaving alpha-mediated constriction unopposed."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Why must an AV nodal blocker accompany flecainide when treating atrial fibrillation or flutter?",
+  "back": "Class IC drugs can organize AF into slow atrial flutter that conducts 1:1, paradoxically accelerating the ventricular rate. A beta blocker or nondihydropyridine calcium blocker prevents this."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "For ischemic cardiomyopathy with NYHA class I symptoms, what EF threshold earns a primary prevention ICD?",
+  "back": "LVEF ≤30%, again at least 40 days post MI and 90 days post revascularization on optimal medical therapy."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "When is ASD closure contraindicated because of pulmonary vascular disease?",
+  "back": "When PA systolic pressure exceeds two thirds of systemic, PVR exceeds two thirds of systemic resistance, or there is a net right-to-left shunt (Eisenmenger physiology). Closure would remove the pop-off."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Which symptomatic carotid stenosis benefits most from endarterectomy, and by when?",
+  "back": "70 to 99% stenosis after a nondisabling stroke or TIA, ideally within 2 weeks of the event. Men with 50 to 69% stenosis gain more modest benefit."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "Name the five WHO clinical groups of pulmonary hypertension.",
+  "back": "Group 1 pulmonary arterial hypertension; group 2 left heart disease; group 3 lung disease or hypoxia; group 4 pulmonary artery obstruction including CTEPH; group 5 unclear or multifactorial mechanisms."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What prophylaxis options exist for penicillin-allergic patients, and which drug was removed?",
+  "back": "Cephalexin 2 g, azithromycin or clarithromycin 500 mg, or doxycycline 100 mg; the 2021 AHA update removed clindamycin because of adverse events including C. difficile."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Which ECG measurement predicts ventricular tachycardia and sudden death in repaired tetralogy of Fallot?",
+  "back": "QRS duration ≥180 ms, reflecting RV dilation and slowed conduction; it flags patients needing closer arrhythmia surveillance and evaluation."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Contrast atherosclerotic renal artery stenosis with fibromuscular dysplasia.",
+  "back": "Atherosclerosis affects the ostium and proximal artery in older patients. Fibromuscular dysplasia causes a mid-to-distal string-of-beads appearance in young women and responds to balloon angioplasty without stenting."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is atrial fibrillation anticoagulated in rheumatic mitral stenosis?",
+  "back": "With warfarin regardless of CHA2DS2-VASc score; direct oral anticoagulants are not recommended in rheumatic mitral stenosis or with mechanical valves."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What defines a complicated type B dissection requiring intervention?",
+  "back": "Malperfusion of viscera, kidneys, or limbs, rupture or impending rupture, refractory pain, refractory hypertension, or rapid aortic expansion."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which post-MI patients should receive an ACE inhibitor within 24 hours?",
+  "back": "Those with anterior infarction, heart failure, or LVEF ≤40%, provided blood pressure allows. Use an ARB if ACE inhibitor intolerant."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What EF threshold qualifies an asymptomatic NYHA class I ischemic cardiomyopathy patient for a primary prevention ICD?",
+  "back": "LVEF ≤30% at least 40 days post-MI on guideline-directed therapy, with expected survival greater than 1 year."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "In the 2020 ACC/AHA framework, which aortic stenosis patients should preferentially receive transfemoral TAVR by age?",
+  "back": "Patients over 80, or with life expectancy under 10 years, are preferentially treated with transfemoral TAVR when anatomy is suitable."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How long must you wait after myocardial infarction and after revascularization before implanting a primary prevention ICD?",
+  "back": "At least 40 days after MI and at least 90 days after revascularization, allowing time for LVEF recovery."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "STEMI requiring transfer to a PCI center: what total first medical contact to device time still favors primary PCI?",
+  "back": "120 minutes or less. If PCI cannot be achieved within 120 minutes, give fibrinolysis unless contraindicated."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "How is unstable angina defined now that high-sensitivity troponin is standard?",
+  "back": "Ischemic symptoms at rest or with minimal exertion, new or accelerating, without troponin elevation above the 99th percentile. It is increasingly rare with high-sensitivity assays."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "What presentation should trigger evaluation for cardiac sarcoidosis?",
+  "back": "Unexplained high-grade AV block in a patient younger than 60, or unexplained ventricular tachycardia. Evaluate with cardiac MRI and FDG-PET."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Why is milrinone effective in patients on chronic beta-blockade, and what are its main cautions?",
+  "back": "As a phosphodiesterase-3 inhibitor it acts downstream of the beta receptor. It vasodilates, so avoid it in hypotension, and it accumulates in renal failure because of renal clearance."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "At what CHA2DS2-VASc score does the 2023 AF guideline recommend anticoagulation for men and for women?",
+  "back": "Score ≥2 in men or ≥3 in women (annual stroke risk ≥2%). A score of 1 in men or 2 in women makes anticoagulation reasonable."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What antithrombotic regimen follows TAVR in a patient without another anticoagulation indication?",
+  "back": "Aspirin 75 to 100 mg daily alone; single antiplatelet therapy caused less bleeding than dual therapy without more ischemic events in POPular TAVI."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What does the I-NEED-HELP mnemonic identify, and what do its letters stand for?",
+  "back": "Triggers for advanced heart failure referral: IV inotropes, NYHA IIIB/IV or rising natriuretic peptides, End-organ dysfunction, EF ≤35%, Defibrillator shocks, Hospitalizations >1, Edema despite escalating diuretics, Low blood pressure, Prognostic medication intolerance."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is immune checkpoint inhibitor myocarditis recognized and treated?",
+  "back": "Troponin elevation, arrhythmias, or new LV dysfunction on checkpoint inhibitor therapy, sometimes with concurrent myositis and myasthenia gravis. Hold the checkpoint inhibitor and give high-dose corticosteroids promptly."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Is a washout period needed when switching from an ARB to sacubitril/valsartan?",
+  "back": "No. ARBs do not affect bradykinin degradation, so the next scheduled dose can simply be replaced by the ARNI."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Which congenital heart patients still warrant endocarditis prophylaxis before dental procedures?",
+  "back": "Unrepaired cyanotic CHD including palliative shunts, repairs with prosthetic material within the first 6 months, residual defects adjacent to prosthetic material, and prior endocarditis or prosthetic valves."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "How long is colchicine continued for recurrent pericarditis?",
+  "back": "Six months, twice the duration used for a first episode, alongside the anti-inflammatory taper."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "After CABG performed for ACS, how long should DAPT continue?",
+  "back": "12 months, the same as any ACS, then aspirin monotherapy indefinitely."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "How is hypertensive urgency defined, and how should it be managed?",
+  "back": "Blood pressure ≥180/120 mmHg without acute target organ damage. Manage with oral agents and gradual reduction over 24 to 48 hours, not IV therapy or ICU admission."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "After any cardioversion of AF, how long must anticoagulation continue regardless of stroke risk score?",
+  "back": "At least 4 weeks, because atrial mechanical stunning persists after electrical or pharmacologic conversion. Continue longer if CHA2DS2-VASc warrants."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Summarize the normal hemodynamic changes that occur during a healthy pregnancy.",
+  "back": "Plasma volume rises 40 to 50%, cardiac output rises 30 to 50%, and systemic vascular resistance falls, with blood pressure reaching its nadir in the second trimester."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which two adverse effects distinguish ACE inhibitors from ARBs?",
+  "back": "Dry cough and angioedema, both bradykinin-mediated, are far more common with ACE inhibitors. Hyperkalemia and creatinine rise occur with both classes."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target daily dose of metoprolol succinate in HFrEF?",
+  "back": "200 mg once daily, uptitrated from 12.5 to 25 mg daily as tolerated."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "How does the PR interval behave in Mobitz type I versus Mobitz type II second-degree AV block?",
+  "back": "Mobitz I: progressive PR prolongation before a dropped beat (usually AV nodal, benign). Mobitz II: fixed PR with sudden nonconducted P waves (infranodal, pacemaker indicated)."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the target daily dose of eplerenone in heart failure therapy?",
+  "back": "50 mg once daily, started at 25 mg daily. Eplerenone causes less gynecomastia than spironolactone."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "When is systemic thrombolysis clearly indicated in acute pulmonary embolism?",
+  "back": "High-risk PE with hemodynamic instability and acceptable bleeding risk. Intermediate-risk patients get anticoagulation with monitoring, reserving rescue thrombolysis for hemodynamic deterioration."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "In wide-complex tachycardia, what single ECG finding proves ventricular tachycardia when present?",
+  "back": "AV dissociation, including capture beats and fusion beats: independent atrial activity confirms a ventricular origin. Its absence does not exclude VT."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "List the five minor Duke criteria for infective endocarditis.",
+  "back": "Predisposing condition or injection drug use, fever ≥38.0 C, vascular phenomena, immunologic phenomena, and microbiologic evidence not meeting a major criterion."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Roughly how much does an intra-aortic balloon pump augment cardiac output, and what are its main effects?",
+  "back": "About 0.5 L/min. It inflates in diastole to augment coronary perfusion and deflates in systole to reduce afterload."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Should aspirin be added routinely to warfarin for every mechanical valve patient?",
+  "back": "No. The 2020 guideline dropped routine aspirin addition because of bleeding risk; add it only when another indication such as coronary disease exists."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "Who qualifies for PFO closure after stroke, based on trials like CLOSE and RESPECT?",
+  "back": "Patients roughly 18 to 60 years old with an embolic-appearing cryptogenic stroke and no other identified cause, after shared decision making with neurology; closure beats antiplatelets alone."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What accessory pathway property on invasive testing marks high sudden death risk in WPW?",
+  "back": "A shortest preexcited RR interval ≤250 ms during atrial fibrillation, indicating rapid antegrade conduction; ablation is recommended. Abrupt delta wave loss with exercise suggests lower risk."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "AF of unknown or ≥48 hours duration: what are the two acceptable pathways to elective cardioversion?",
+  "back": "Either 3 weeks of continuous therapeutic anticoagulation first, or a TEE excluding left atrial appendage thrombus, then cardiovert on anticoagulation."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "ST elevation in leads II, III, and aVF localizes to which wall and which artery?",
+  "back": "Inferior wall. The right coronary artery is the culprit in about 80 to 90%, the left circumflex in the remainder."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "Which biologic agents treat colchicine-resistant, steroid-dependent recurrent pericarditis?",
+  "back": "Interleukin-1 blockers: rilonacept, shown to prevent recurrences in the RHAPSODY trial, and anakinra."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What ECG criteria define multifocal atrial tachycardia, and what is the treatment focus?",
+  "back": "Irregular atrial tachycardia with ≥3 distinct P wave morphologies and varying PR intervals, classically in decompensated COPD. Treat the underlying illness; cardioversion is ineffective."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Above what PVC burden on 24-hour monitoring does PVC-induced cardiomyopathy become a real concern?",
+  "back": "Roughly ≥15 to 20% of total beats. Falling EF with a high burden warrants suppression with beta blockers, antiarrhythmics, or catheter ablation, which can normalize EF."
+ },
+ {
+  "domain": "pulmonary_circulation_disorders",
+  "front": "What test is mandatory to confirm pulmonary arterial hypertension before starting PAH-specific therapy?",
+  "back": "Right heart catheterization. It confirms precapillary hemodynamics, excludes left heart disease, and allows vasoreactivity testing in eligible patients."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Who is a candidate for percutaneous left atrial appendage occlusion in atrial fibrillation?",
+  "back": "Patients with elevated stroke risk who have a legitimate long-term contraindication to oral anticoagulation, such as recurrent major bleeding; devices include Watchman and Amulet."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "How is iron deficiency defined in heart failure for treatment purposes?",
+  "back": "Ferritin <100 ng/mL, or ferritin 100 to 299 ng/mL with transferrin saturation <20%."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "What late problems follow atrial switch (Mustard or Senning) repair of D-transposition?",
+  "back": "Failure of the systemic right ventricle with tricuspid regurgitation, baffle leaks or stenosis, sinus node dysfunction, and atrial arrhythmias."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which two AF populations must receive warfarin rather than a DOAC for stroke prevention?",
+  "back": "Patients with a mechanical heart valve and those with moderate to severe (rheumatic) mitral stenosis. DOACs are contraindicated in both; dabigatran caused harm in RE-ALIGN."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "HEART score strata: what ranges define low, moderate, and high risk?",
+  "back": "0 to 3 is low risk with about 1.7% 6-week MACE, suitable for early discharge; 4 to 6 is moderate; 7 to 10 is high risk."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What office blood pressure defines normal in the ACC/AHA classification?",
+  "back": "Below 120/80 mmHg. Both the systolic and diastolic values must be below threshold to qualify as normal."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Ticagrelor dosing in ACS and its two key contraindications or cautions?",
+  "back": "180 mg load, then 90 mg twice daily. Contraindicated with prior intracranial hemorrhage and severe hepatic impairment, and maintenance aspirin must stay ≤100 mg daily."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What resting heart rate target defines lenient rate control in AF, and which trial supports it?",
+  "back": "Resting rate under 110 bpm in patients with preserved EF and acceptable symptoms, based on RACE II, which found lenient control noninferior to strict control."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Why does the 2023 AF guideline favor catheter ablation in AF patients with HFrEF?",
+  "back": "Trials such as CASTLE-AF showed ablation reduces mortality and heart failure hospitalization versus medical therapy in selected HFrEF patients (Class 1 recommendation)."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "What mitral inflow Doppler finding supports tamponade physiology on echocardiography?",
+  "back": "Exaggerated respiratory variation of mitral inflow velocity, greater than about 30%, with an even larger tricuspid inflow variation above about 60%, reflecting ventricular interdependence."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "Who gets one-time ultrasound screening for abdominal aortic aneurysm?",
+  "back": "Men aged 65 to 75 who have ever smoked, per USPSTF. Selective screening applies to never-smoking men in that age range."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is the elective repair threshold for a sporadic ascending thoracic aortic aneurysm?",
+  "back": "≥5.5 cm in the absence of a genetic aortopathy, with lower thresholds for rapid growth or planned concomitant cardiac surgery."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "When is catheter ablation a first-line Class 1 rhythm-control option in atrial fibrillation, per 2023 guidance?",
+  "back": "In symptomatic paroxysmal AF in younger patients with few comorbidities, to improve symptoms and reduce progression, without requiring a failed antiarrhythmic drug first."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What systolic and diastolic readings define stage 2 hypertension?",
+  "back": "Systolic ≥140 mmHg or diastolic ≥90 mmHg."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Beyond magnesium, name two therapies for recurrent torsades from acquired QT prolongation with bradycardia.",
+  "back": "Temporary transvenous overdrive pacing (around 100 bpm) or isoproterenol to raise heart rate and shorten the QT, plus potassium repletion toward high normal and stopping QT-prolonging drugs."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "How does starting amiodarone affect warfarin and digoxin dosing?",
+  "back": "Amiodarone inhibits their metabolism and transport: reduce warfarin dose by roughly one third to one half and halve digoxin, then follow INR and digoxin levels."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What separates NYHA class II from NYHA class III heart failure symptoms?",
+  "back": "Class II means symptoms with ordinary activity; class III means symptoms with less than ordinary activity, with comfort only at rest."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Describe the pill-in-pocket strategy for infrequent symptomatic AF episodes.",
+  "back": "A single self-administered oral dose of flecainide or propafenone at AF onset, in patients without structural heart disease, after first proving safety in a monitored setting."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What BNP level effectively rules out acute heart failure in a dyspneic patient?",
+  "back": "BNP <100 pg/mL makes acute heart failure unlikely in the acutely dyspneic patient."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "Which ECG leads reflect the inferior wall, and which artery usually supplies it?",
+  "back": "Leads II, III, and aVF. The right coronary artery supplies the inferior wall in the roughly 85% of people with right-dominant circulation."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What reading pattern defines masked hypertension, and why does it matter clinically?",
+  "back": "Normal office readings with elevated out-of-office readings. It carries cardiovascular risk similar to sustained hypertension, so it warrants treatment."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "STEMI criteria in leads V2 and V3: what ST-elevation thresholds apply by age and sex?",
+  "back": "≥2 mm in men ≥40 years, ≥2.5 mm in men under 40, and ≥1.5 mm in women, measured at the J point."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the current role of glycoprotein IIb/IIIa inhibitors in PCI, and their signature adverse effects?",
+  "back": "Bailout use for large thrombus, no-reflow, or thrombotic complications, not routine upstream therapy. Key risks are bleeding and acute profound thrombocytopenia."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What everyday state can unmask a Brugada pattern and must be treated aggressively?",
+  "back": "Fever unmasks the type 1 pattern and precipitates arrhythmias; treat with antipyretics promptly. Sodium channel blockers, cocaine, and heavy alcohol should also be avoided."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "What are the two major Duke criteria for infective endocarditis?",
+  "back": "Positive blood cultures with typical organisms or persistent bacteremia, and imaging evidence of endocardial involvement such as vegetation, abscess, prosthetic dehiscence, or new valvular regurgitation."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "State normal right atrial pressure, pulmonary capillary wedge pressure, and cardiac index values.",
+  "back": "Right atrial pressure 2 to 6 mmHg, wedge pressure 8 to 12 mmHg, and cardiac index 2.5 to 4.0 L/min/m²."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "A patient has unexplained syncope and bifascicular block on ECG. What diagnosis must you presume?",
+  "back": "Intermittent complete heart block. Evaluation (or empiric pacing when EP study shows a prolonged HV interval, or per guideline in select cases) is required; do not dismiss as vasovagal."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which DPP-4 inhibitors are associated with increased heart failure hospitalization?",
+  "back": "Saxagliptin and alogliptin. Saxagliptin increased heart failure hospitalization in SAVOR-TIMI 53, so both carry heart failure warnings."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How is prosthesis type chosen for patients aged 50 to 65?",
+  "back": "Either mechanical or bioprosthetic is reasonable; the choice is individualized through shared decision-making about anticoagulation, reoperation risk, and preference."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Which vagal maneuver technique has the best evidence for terminating SVT, per the REVERT trial?",
+  "back": "The modified Valsalva: 15 second strain, then immediately lie supine with legs raised. It roughly quadrupled conversion versus standard Valsalva."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What is the preferred fourth agent for resistant hypertension?",
+  "back": "Spironolactone, shown in PATHWAY-2 to outperform doxazosin and bisoprolol as add-on therapy. Monitor potassium."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Fourth Universal Definition: what two elements are required to diagnose acute myocardial infarction?",
+  "back": "A rise and/or fall in cardiac troponin with at least one value above the 99th percentile upper reference limit, plus clinical evidence of acute myocardial ischemia."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Name four elements of correct office blood pressure measurement technique.",
+  "back": "Seated quietly 5 minutes, back supported and feet flat; arm supported at heart level; correct cuff size; average of at least two readings, no caffeine or smoking within 30 minutes."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "Which initial classes work best in Black adults without heart failure or CKD?",
+  "back": "A thiazide diuretic or a calcium channel blocker, which lower blood pressure more effectively than ACE inhibitor monotherapy in this group."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "When is warfarin fetotoxic in pregnancy, and how is anticoagulation handled around delivery?",
+  "back": "Embryopathy risk is greatest during weeks 6 to 12; before planned vaginal delivery, convert to intravenous unfractionated heparin, stopped 4 to 6 hours before delivery."
+ },
+ {
+  "domain": "systemic_disorders_affecting_the_circulatory_system",
+  "front": "Which common chemotherapy agents cause coronary vasospasm, and how does it present?",
+  "back": "Fluorouracil (5-FU) and its oral prodrug capecitabine. They can cause chest pain with ischemic ECG changes during infusion, treated by stopping the drug and giving calcium channel blockers or nitrates."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What LVOT gradient thresholds define obstruction in HCM at rest and with provocation?",
+  "back": "A peak gradient ≥30 mmHg defines obstruction; resting or provoked gradients ≥50 mmHg mark the threshold for septal reduction therapy in refractory symptomatic patients."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "How should the TAVR versus SAVR decision be made for patients aged 65 to 80?",
+  "back": "Either option is acceptable; the guideline calls for shared decision-making weighing anatomy, valve durability, access, and patient preference."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Which stress modality is preferred in left bundle branch block, and why?",
+  "back": "Vasodilator nuclear perfusion imaging. Exercise or dobutamine causes false-positive septal perfusion defects from rate-related abnormal septal motion in LBBB."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Describe the ECG signature and drug sensitivity of idiopathic right ventricular outflow tract VT.",
+  "back": "LBBB morphology with an inferior (tall inferior lead) axis in a structurally normal heart; it is adenosine and verapamil sensitive and often triggered by exercise. Ablation is curative."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Name two classic long RP tachycardias to consider when the P wave sits closer to the next QRS.",
+  "back": "Atrial tachycardia and atypical AVNRT; also PJRT from a slowly conducting accessory pathway. Sinus tachycardia is also long RP."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Aspirin in suspected ACS: what loading dose and how should it be taken?",
+  "back": "162 to 325 mg of non-enteric-coated aspirin, chewed for rapid absorption, then 81 mg daily indefinitely."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Clopidogrel with fibrinolysis for STEMI: how does loading differ by age?",
+  "back": "Patients ≤75 years get a 300 mg load; patients over 75 get no load, only 75 mg daily, to limit intracranial bleeding risk."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "State the oral loop diuretic dose equivalence for furosemide, bumetanide, and torsemide.",
+  "back": "Furosemide 40 mg equals bumetanide 1 mg equals torsemide 20 mg by mouth."
+ },
+ {
+  "domain": "systemic_hypertension_and_hypotension",
+  "front": "What blood pressure change on standing defines orthostatic hypotension?",
+  "back": "A sustained fall of ≥20 mmHg systolic or ≥10 mmHg diastolic within 3 minutes of standing or head-up tilt."
+ },
+ {
+  "domain": "normal_cardiovascular_anatomy_and_physiology",
+  "front": "How are preload and afterload defined in ventricular mechanics?",
+  "back": "Preload is ventricular wall stress at end-diastole, approximated by end-diastolic volume or filling pressure. Afterload is the wall stress the ventricle must overcome during ejection."
+ },
+ {
+  "domain": "congenital_heart_disease",
+  "front": "After an arterial switch operation for D-TGA, what anatomy needs lifelong surveillance?",
+  "back": "The reimplanted coronary arteries (ostial stenosis causing ischemia), the neoaortic root (dilation and regurgitation), and the branch pulmonary arteries (supravalvular stenosis)."
+ },
+ {
+  "domain": "pericardial_disease",
+  "front": "Which echocardiographic and Doppler signs point to constrictive pericarditis?",
+  "back": "Respirophasic septal shift with a septal bounce, annulus reversus (lateral e' lower than medial e'), and expiratory diastolic flow reversal in the hepatic veins."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Why is P2Y12 inhibitor monotherapy, rather than aspirin monotherapy, the usual agent kept after abbreviated DAPT?",
+  "back": "Trials of early aspirin withdrawal, such as TWILIGHT, continued the P2Y12 inhibitor and showed less bleeding with no increase in ischemic events."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "State the strongest (Class 1) indication for cardiac resynchronization therapy.",
+  "back": "LVEF ≤35%, sinus rhythm, LBBB with QRS ≥150 ms, and NYHA class II to IV symptoms on GDMT. Benefit falls with non-LBBB morphology or narrower QRS."
+ },
+ {
+  "domain": "vascular_diseases",
+  "front": "What is cilostazol's role in claudication and its absolute contraindication?",
+  "back": "It improves pain-free walking distance. It is contraindicated in heart failure of any severity because oral phosphodiesterase-3 inhibitors increase mortality in that setting."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Inclisiran: what is its mechanism and its maintenance dosing schedule?",
+  "back": "A small interfering RNA that silences hepatic PCSK9 synthesis. Dosed at baseline, 3 months, then every 6 months, lowering LDL-C by about 50%."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What coronary artery calcium findings favor initiating statin therapy in borderline or intermediate risk patients?",
+  "back": "A CAC score ≥100 Agatston units or ≥75th percentile for age and sex. Any score of 1 to 99 favors a statin, particularly after age 55."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "What is the evidence-based route of iron repletion in iron-deficient HFrEF?",
+  "back": "Intravenous iron, such as ferric carboxymaltose, improves symptoms, functional capacity, and quality of life (FAIR-HF, AFFIRM-AHF). Oral iron failed to replete iron or improve capacity (IRONOUT HF)."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "State the primary prevention ICD criteria for ischemic cardiomyopathy with NYHA class II or III symptoms.",
+  "back": "LVEF ≤35% on GDMT, at least 40 days after MI and 90 days after revascularization, with >1 year meaningful survival expected."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "Who with Brugada syndrome gets an ICD, and what drug helps recurrent arrhythmic storms?",
+  "back": "ICD for survivors of cardiac arrest or arrhythmic syncope with a spontaneous type 1 pattern. Quinidine (or catheter ablation of the RVOT epicardium) treats recurrent VF or storm."
+ },
+ {
+  "domain": "arrhythmias",
+  "front": "What safety rules govern sotalol initiation and ongoing use?",
+  "back": "It is renally cleared and prolongs the QT: check creatinine, avoid significant renal failure, and monitor QTc during initiation (classically in-hospital for 3 days), especially with hypokalemia or bradycardia."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "Name the seven variables of the TIMI risk score for NSTE-ACS.",
+  "back": "Age ≥65, ≥3 CAD risk factors, known stenosis ≥50%, aspirin use in the prior 7 days, ≥2 anginal episodes in 24 hours, ST deviation ≥0.5 mm, and elevated biomarkers."
+ },
+ {
+  "domain": "heart_failure_and_cardiomyopathy",
+  "front": "Which drug class first showed convincing outcome benefit in HFpEF, and on what evidence?",
+  "back": "SGLT2 inhibitors, based on EMPEROR-Preserved and DELIVER, which reduced heart failure hospitalization and cardiovascular death; class 2a in the 2022 guideline."
+ },
+ {
+  "domain": "coronary_artery_disease",
+  "front": "What is the door-to-needle goal for fibrinolytic therapy in STEMI?",
+  "back": "30 minutes or less from hospital arrival to fibrinolytic administration."
+ },
+ {
+  "domain": "valvular_disease",
+  "front": "Which criterion combinations classify endocarditis as definite by Duke criteria?",
+  "back": "Two major criteria, one major plus three minor, or five minor criteria."
+ }
+]
